@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/a-new-year-a-new-posibility/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/building-an-online-audience/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/space-shouldnt-be-the-final-frontier/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+    <lastmod>2018-07-14T17:09:20+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/service/</loc>
+    <lastmod>2018-07-14T12:58:14+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/fowlie/</loc>
+    <lastmod>2018-07-12T16:59:54+06:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/auffhammer/</loc>
+    <lastmod>2018-07-12T16:59:54+06:02</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/chen/</loc>
+    <lastmod>2018-07-12T16:59:54+06:03</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/hammer/</loc>
+    <lastmod>2018-07-12T16:59:54+06:04</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/baylis/</loc>
+    <lastmod>2018-07-12T16:59:54+06:05</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/business/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inspiration/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/internet/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/motivation/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/people/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2018-07-12T16:59:54+06:01</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

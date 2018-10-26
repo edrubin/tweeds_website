@@ -1,0 +1,23 @@
+enable  : true
+title   : what + why
+description: >
+  TWEEDS is the workshop in environmental economics and/or data science.
+  <br><br>
+  We will kick off our first, annual meeting in Portland, 29–30 March 2019.
+  <br><br>
+  During these two days, workshop participants will hear from experts in data-science methods and tools—machine learning, remote sensing, natural language processing, cloud computing, geospatial data analysis—and applied environmental economics—including climate change, energy policy, environmental justice, transportation, and the interchange between air/water quality and health.
+  <br><br>
+  In one set of talks, presenters will focus on the <i>actual methods and tools</i> that they develop and use. In the second set of talks, presenters will display more complete projects that depict how these methods and tools help us learn about the nexus between the environment, the economy, and policy.
+image   : images/about/sundarbans.jpg
+aboutItem:
+  - title : Why should economists care?
+    description: >
+      Contributions in economics increasingly rely upon developments within fields outside of economics—particularly fields relating to data science and statistics (e.g., big-data tools, machine learning, spatial statistics, remote sensing). However, developments in these fields often take considerable time to settle into the attention and repertoire of economists—particularly when the methods require substantial time and effort to master.
+
+  - title : Why should data scientists care?
+    description: >
+      Similarly, the policy work, behavioral insights, causal acuity, and general applications of economics often fail to <i>close the loop</i>—quietly residing within academic economic journals, instead of flowing back toward the data scientists who originally developed the tools, methods, and data products. Our workshop aims to solve these problems by literally bringing together these experts from across academia, government, and industry.
+
+  # - title : Register
+  #   description: >
+  #     Ready? <a href="https://edrubin.typeform.com/to/YvQE7p">Register here</a>.

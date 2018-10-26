@@ -1,0 +1,34 @@
+enable  : true
+title   : Topics
+subtitle: >
+  Some of the topics that the workshop will feature...
+item    :
+  - icon  : ion-earth
+    title : Remote sensing
+    description : >
+      Increasingly, environmental analysis relies upon mixtures of satellite monitors, in-situ monitors, and a number of other monitoring devices.
+
+  - icon  : ion-map
+    title : Geospatial analysis
+    description : >
+      High-resolution spatial data, spillovers, externalities, ...
+
+  - icon  : ion-calculator
+    title : Machine learning
+    description : >
+      It's hard to spell "data science" without "machine learning."
+
+  - icon  : ion-ios-barcode-outline
+    title : Visualization
+    description : >
+      Creating stunning, accurate, and informative graphics.
+
+  - icon  : ion-code
+    title : Workflow and transparency
+    description : >
+      Cloud-computing resources, data management tools for large datasets, laying the foundations for open/transparent science
+
+  - icon  : ion-beer
+    title : Fun
+    description : >
+      And we plan to make time for fun... it is Portland, afterall. Donuts, coffee, pickles, ...
