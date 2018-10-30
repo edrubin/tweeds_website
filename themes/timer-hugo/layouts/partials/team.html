@@ -15,13 +15,23 @@
                         <img src="{{ . | absURL }}" class="team-pic" alt="team-member">
                     </div>
                     {{ end }}
-                    {{ with .name }}<h3 class="team_name">{{ . }}</h3>{{ end }}
+                    <h3 class="team_name"><a href="{{ .orgSite }}" target="_blank">{{ .name }}</a></h3>
                     {{ with .designation }}<p class="team_designation">{{ . }}</p>{{ end }}
                     {{ with .description }}<p class="team_text">{{ . }}</p>{{ end }}
                     <p class="social-icons">
+                        {{ with .email }}
+                        <a href="mailto:{{ . }}?Subject=TWEEDS" class="email" target="_blank">
+                            <i class="ion-paper-airplane"></i>
+                        </a>
+                        {{ end }}
                         {{ with .facebook }}
                         <a href="{{ . }}" class="facebook" target="_blank">
                             <i class="ion-social-facebook-outline"></i>
+                        </a>
+                        {{ end }}
+                        {{ with .github }}
+                        <a href="{{ . }}" class="github" target="_blank">
+                            <i class="ion-social-github"></i>
                         </a>
                         {{ end }}
                         {{ with .twitter }}
@@ -29,14 +39,9 @@
                             <i class="ion-social-twitter-outline"></i>
                         </a>
                         {{ end }}
-                        {{ with .linkedIn }}
+                        {{ with .instagram }}
                         <a href="{{ . }}" target="_blank">
-                            <i class="ion-social-linkedin-outline"></i>
-                        </a>
-                        {{ end }}
-                        {{ with .googleplus }}
-                        <a href="{{ . }}" target="_blank">
-                            <i class="ion-social-googleplus-outline"></i>
+                            <i class="ion-social-instagram-outline"></i>
                         </a>
                         {{ end }}
                     </p>

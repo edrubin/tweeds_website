@@ -70,7 +70,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "when + where"
-        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <i>Note:</i> Registration ends 30 November 2018."
+        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Registration ends 30 November 2018."
         image   = "images/portland/portland_white_stag.jpg"
 
     # Call to Action

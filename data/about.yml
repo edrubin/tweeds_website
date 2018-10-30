@@ -8,6 +8,8 @@ description: >
   During these two days, workshop participants will hear from experts in data-science methods and tools—machine learning, remote sensing, natural language processing, cloud computing, geospatial data analysis—and applied environmental economics—including climate change, energy policy, environmental justice, transportation, and the interchange between air/water quality and health.
   <br><br>
   In one set of talks, presenters will focus on the <i>actual methods and tools</i> that they develop and use. In the second set of talks, presenters will display more complete projects that depict how these methods and tools help us learn about the nexus between the environment, the economy, and policy.
+  <br><br>
+  <i>Image credit:</i> Modified Copernicus Sentinel data (2016), processed by <a href="https://www.esa.int/spaceinimages/Images/2016/07/Sundarbans_web">ESA</a>,	<a href="https://creativecommons.org/licenses/by-sa/3.0/igo/">CC BY-SA 3.0 IGO</a>
 image   : images/about/sundarbans.jpg
 aboutItem:
   - title : Why should economists care?
