@@ -1,8 +1,9 @@
 enable  : true
 galleryImages :
   - image : images/speakers/fowlie.jpg
-  - image : images/speakers/auffhammer.jpg
-  - image : images/speakers/chen.jpg
+  # - image : images/speakers/auffhammer.jpg
+  # - image : images/speakers/chen.jpg
   - image : images/speakers/hammer.jpg
+  - image : images/speakers/baylis.jpg
   # - image : images/portfolio/item-5.jpg
   # - image : images/portfolio/item-6.jpg

@@ -21,13 +21,19 @@
                         </div> -->
                     </div>
                     <figcaption>
+                      {{ if isset .Params "group" }}
+                      <font size="4" color="Silver">{{ .Params.group }}</font>
+                      <br>
+                      {{ end }}
                         <h4>
                             <a href="{{ .Params.liveLink }}">
                                 {{ .Title }}
                             </a>
                         </h4>
                         <p>
-                            {{ .Params.caption }}
+                          {{ .Params.caption }}
+                          <br>
+                          <b>{{ .Params.affiliation }}</b>
                         </p>
                     </figcaption>
                 </figure>
