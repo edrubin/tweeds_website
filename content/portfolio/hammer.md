@@ -1,7 +1,7 @@
 ---
 title: "Dan Hammer"
 type: portfolio
-date: 2018-07-12T16:59:54+06:04
+date: 2018-07-12T16:59:54+06:05
 caption: Environmental Data Scientist
 affiliation: National Geographic Fellow; Earthrise Media
 image: images/speakers/hammer.jpg
