@@ -13,6 +13,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         name    = "About"
         url     = "/about"
         weight  = 2
+    [[menu.nav]]
+        name    = "Logistics"
+        url     = "/logistics"
+        weight  = 2
     # [[menu.nav]]
     #     name    = "Agenda"
     #     url     = "/agenda"
@@ -45,7 +49,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         heading = "The workshop in environmental <br> economics and data science"
         description = "Join us in Portland, Oregon on March 29 and 30 (2019) for an intimate workshop focused on the methodological frontiers of environmental economics and data science."
         btn     = true
-        btnText = "Register"
+        btnText = "Apply"
         btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
         [[params.banner.flipText]]
             title   = "air quality"
@@ -70,15 +74,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "when + where"
-        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Registration ends 31 December 2018."
+        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Applications close 31 December 2018."
         image   = "images/portland/portland_white_stag.jpg"
 
     # Call to Action
     [params.cta]
         enable  = true
         title   = "care to join us?"
-        content = "Registration ends 31 December 2018.<br>Questions? edwardr@uoregon.edu"
-        btnText = "Register now"
+        content = "Applications close on 31 December 2018.<br>Questions? edwardr@uoregon.edu"
+        btnText = "Apply now"
         btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
 
     # Portfolio Section On Homepage
