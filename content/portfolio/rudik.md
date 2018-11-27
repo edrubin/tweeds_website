@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:08
 caption: Environmental Economist
 affiliation: Cornell University
-image: images/speakers/rudik.jpg
+image: images/speakers/rudikI.jpg
 category: []
 liveLink: https://ivanrudik.com
 client:

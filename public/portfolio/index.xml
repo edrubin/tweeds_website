@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0601</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Meredith Fowlie</title>
       <link>/portfolio/fowlie/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0601</pubDate>
+      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
       
       <guid>/portfolio/fowlie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathy Baylis</title>
+      <link>/portfolio/baylis/</link>
+      <pubDate>Thu, 12 Jul 2018 16:59:54 +0601</pubDate>
+      
+      <guid>/portfolio/baylis/</guid>
       <description></description>
     </item>
     
@@ -66,11 +75,11 @@
     </item>
     
     <item>
-      <title>Julia Lowndes</title>
-      <link>/portfolio/lowndes/</link>
+      <title>Jacob LaRiviere</title>
+      <link>/portfolio/lariviere/</link>
       <pubDate>Thu, 12 Jul 2018 16:59:54 +0607</pubDate>
       
-      <guid>/portfolio/lowndes/</guid>
+      <guid>/portfolio/lariviere/</guid>
       <description></description>
     </item>
     
