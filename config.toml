@@ -14,21 +14,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         url     = "/about"
         weight  = 2
     [[menu.nav]]
+        name    = "FAQ"
+        url     = "/faq"
+        weight  = 3
+    [[menu.nav]]
         name    = "Logistics"
         url     = "/logistics"
-        weight  = 2
+        weight  = 4
     # [[menu.nav]]
-    #     name    = "Agenda"
-    #     url     = "/agenda"
-    #     weight  = 4
-    # [[menu.nav]]
-    #     name    = "Blog"
-    #     url     = "/blog"
+    #     name    = "Contact"
+    #     url     = "/contact"
     #     weight  = 5
-    [[menu.nav]]
-        name    = "Contact"
-        url     = "/contact"
-        weight  = 6
 
 # Site Params
 [params]
@@ -89,7 +85,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.portfolio]
         enable  = true
         title   = "speakers"
-        subtitle= "Keynote and invited speakers currently on the agenda."
+        subtitle= "Keynote speaker and presenters currently on the agenda."
 
     # Feature Product Section
     [params.featureProduct]
@@ -107,10 +103,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         #     link = "https://facebook.com"
         [[params.footer.social]]
             icon = "ion-social-twitter"
-            link = "https://twitter.com"
-        [[params.footer.social]]
-            icon = "ion-social-instagram"
-            link = "https://instagram.com"
+            link = "https://twitter.com/edrubin"
+        # [[params.footer.social]]
+        #     icon = "ion-social-instagram"
+        #     link = "https://instagram.com"
         # [[params.footer.social]]
         #     icon = "ion-social-linkedin"
         #     link = "https://linkedin.com"
@@ -119,4 +115,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         #     link = "https://googleplus.com"
         [[params.footer.social]]
             icon = "ion-social-github"
-            link = "https://github.com"
+            link = "https://github.com/edrubin/tweeds"

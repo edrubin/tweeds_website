@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:02
 caption: Chief Innovation Officer/Data Scientist
 affiliation: Bureau of Economic Analysis (BEA)
-image: images/speakers/chenJ.jpg
+image: images/speakers/chen_jeff.jpg
 category: []
 liveLink: http://www.jeffchen.org
 client:

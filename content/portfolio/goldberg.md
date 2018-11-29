@@ -4,7 +4,7 @@ type: portfolio
 date: 2018-07-12T16:59:54+06:04
 caption: Atmospheric Scientist
 affiliation: Argonne National Laboratory
-image: images/speakers/goldbergD.jpg
+image: images/speakers/goldberg_dan.jpg
 category: []
 liveLink: https://www.anl.gov/profile/dan-l-goldberg
 client:
