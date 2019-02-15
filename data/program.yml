@@ -1,0 +1,158 @@
+enable  : true
+title   : Program
+description: >
+  <p>We will meet in <b>Portland, Oregon</b> on <b>29–30 March 2019</b>.<br>UO's White Stag Block (the location) is located at <a href="https://goo.gl/maps/ZEtLpVVjjfE2" target="_blank">70 NW Couch Street</a>.</p>
+
+  <p><h4>Friday, 29 March 2019</h4></p>
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td>08:30am</td>
+      <td><font color="#53BAD2">Welcome: Coffee, bagels, general greetings</font></td>
+    </tr>
+    <tr>
+      <td>09:00am</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>09:30am</td>
+      <td>Presentation block 1 (3×20min)</td>
+    </tr>
+    <tr>
+      <td>10:30am</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>10:45am</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>11:15am</td>
+      <td>Presentation block 2 (3×20min)</td>
+    </tr>
+    <tr>
+      <td>12:15pm</td>
+      <td><font color="#53BAD2">Lunch</font></td>
+    </tr>
+    <tr>
+      <td>01:00pm</td>
+      <td><b>Keynote:</b> <a href="https://www.meredithfowlie.com">Meredith Fowlie</a> (UC Berkeley)</td>
+    </tr>
+    <tr>
+      <td>01:30pm</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>01:45pm</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>02:15pm</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>02:45pm</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>03:00pm</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>03:30pm</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>04:00pm</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>04:15pm</td>
+      <td>Lightning round #1</td>
+    </tr>
+    <tr>
+      <td>05:15pm</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>05:45pm</td>
+      <td><font color="#53BAD2">Reception: Drinks, tacos, chat</font></td>
+    </tr>
+  </table>
+  </p>
+
+  <p><h4>Saturday, 30 March 2019</h4></p>
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td>08:30am</td>
+      <td><font color="#53BAD2">Welcome<sub>2</sub>: Coffee, bagels, general greetings</font></td>
+    </tr>
+    <tr>
+      <td>09:00am</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>09:30am</td>
+      <td>Presentation block 3 (3×20min)</td>
+    </tr>
+    <tr>
+      <td>10:30am</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>10:45am</td>
+      <td>Lightning round #2</td>
+    </tr>
+    <tr>
+      <td>12:00pm</td>
+      <td><font color="#53BAD2">Lunch</font></td>
+    </tr>
+    <tr>
+      <td>12:45am</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>01:15pm</td>
+      <td>Presentation block 4 (3×20min)</td>
+    </tr>
+    <tr>
+      <td>02:15pm</td>
+      <td><font color="#53BAD2">Coffee break</font></td>
+    </tr>
+    <tr>
+      <td>02:30pm</td>
+      <td>Presentation</td>
+    </tr>
+    <tr>
+      <td>03:00pm</td>
+      <td>Presentation block 5 (2×20min)</td>
+    </tr>
+    <tr>
+      <td>02:40pm</td>
+      <td><font color="#53BAD2">Good bye</font></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>👋</td>
+    </tr>
+    <tr>
+      <td>06:00pm</td>
+      <td><font color="#53BAD2">Meet up for drinks/dinner</font></td>
+    </tr>
+  </table>
+  </p>
+
+  <br><p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+
+image   : images/about/benches.jpg

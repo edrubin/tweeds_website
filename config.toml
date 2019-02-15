@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "TWEEDS | The workshop in environmental economics and data science"
 theme = "timer-hugo"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+googleAnalytics = "UA-88887510-3"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/v2/
 
@@ -21,6 +22,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         name    = "Logistics"
         url     = "/logistics"
         weight  = 4
+    [[menu.nav]]
+        name    = "Program"
+        url     = "/program"
+        weight  = 5
     # [[menu.nav]]
     #     name    = "Contact"
     #     url     = "/contact"
@@ -44,9 +49,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         bgImage = "images/slider.jpg"
         heading = "The workshop in environmental <br> economics and data science"
         description = "Join us in Portland, Oregon on March 29 and 30 (2019) for an intimate workshop focused on the methodological frontiers of environmental economics and data science."
+        # btn     = false
         btn     = true
         btnText = "Apply"
-        btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
+        # btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
+        btnURL  = "https://edrubin.typeform.com/to/j6t3I1"
         [[params.banner.flipText]]
             title   = "air quality"
         [[params.banner.flipText]]
@@ -70,16 +77,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     [params.about]
         enable  = true
         title   = "when + where"
-        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Applications close 31 December 2018."
+        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Applications closed 31 December 2018. <br>  Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
         image   = "images/portland/portland_white_stag.jpg"
 
     # Call to Action
     [params.cta]
-        enable  = true
-        title   = "care to join us?"
-        content = "Applications close on 31 December 2018.<br>Questions? edwardr@uoregon.edu"
-        btnText = "Apply now"
-        btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
+        enable  = false
+        title   = "Questions?"
+        content = "Please contact Ed Rubin"
+        btn     = true
+        btnText = "Email Ed"
+        # btnURL  = "mailto:edwardr@uoregon.edu?Subject=TWEEDS"
 
     # Portfolio Section On Homepage
     [params.portfolio]
@@ -103,7 +111,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         #     link = "https://facebook.com"
         [[params.footer.social]]
             icon = "ion-social-twitter"
-            link = "https://twitter.com/edrubin"
+            link = "https://twitter.com/tweedsio"
         # [[params.footer.social]]
         #     icon = "ion-social-instagram"
         #     link = "https://instagram.com"
@@ -116,3 +124,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
         [[params.footer.social]]
             icon = "ion-social-github"
             link = "https://github.com/edrubin/tweeds"
+        [[params.footer.social]]
+            icon = "ion-paper-airplane"
+            link = "mailto:edwardr@uoregon.edu?Subject=TWEEDS"

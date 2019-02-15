@@ -73,11 +73,6 @@
   </url>
   
   <url>
-    <loc>/portfolio/jack/</loc>
-    <lastmod>2018-07-12T16:59:54+06:06</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/jain/</loc>
     <lastmod>2018-07-12T16:59:54+06:06</lastmod>
   </url>
@@ -150,6 +145,10 @@
     <loc>/portfolio/</loc>
     <lastmod>2018-07-12T16:59:54+06:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/program/</loc>
   </url>
   
   <url>
