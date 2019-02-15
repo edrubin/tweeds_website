@@ -1,7 +1,7 @@
 enable  : true
 title   : Basic logistics
 description: >
-  <p>We will meet in <b>Portland, Oregon</b> on <b>29–30 March 2019</b>.<br>UO's White Stag Block (the location) is located at <a href="https://goo.gl/maps/ZEtLpVVjjfE2" target="_blank">70 NW Couch Street</a>.</p> 
+  <p>We will meet in <b>Portland, Oregon</b> on <b>29–30 March 2019</b>.<br>UO's White Stag Block (the location) is located at <a href="https://goo.gl/maps/ZEtLpVVjjfE2" target="_blank">70 NW Couch Street</a>.</p>
 
   <p>Applications closed <b>due 31 December 2018</b>.</p>
 
@@ -9,6 +9,7 @@ description: >
 
   <p><h4>Sponsors:</h4></p>
   <p><a href="https://economics.uoregon.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oregon_Ducks_logo.svg/2000px-Oregon_Ducks_logo.svg.png" alt="UO Dept. of Economics" style="width:136px;height:113px;"></a></p>
+  <p><a href="https://microsoft.com" target="_blank"><img src="images/about/microsoft.png" alt="Microsoft" style="width:136px;height:113px;"></a></p>
 
   <p>Attendees are responsible for their own transporation and lodging.</p>
 
@@ -33,4 +34,4 @@ description: >
 
   <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
 
-image   : images/about/plane.jpg
+image   : images/about/hex_sticker_crop.png
