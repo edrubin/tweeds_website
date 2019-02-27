@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lightning talks, round 2 on TWEEDS | The workshop in environmental economics and data science</title>
+    <link>/lightning2/</link>
+    <description>Recent content in Lightning talks, round 2 on TWEEDS | The workshop in environmental economics and data science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/lightning2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

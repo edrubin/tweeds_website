@@ -17,7 +17,7 @@ description: >
     </tr>
     <tr>
       <td>09:00am</td>
-      <td><a href="https://seas.umich.edu/research/faculty/meha_jain"><b>Meha Jain</b></a></td>
+      <td><a target="_blank" href="https://seas.umich.edu/research/faculty/meha_jain"><b>Meha Jain</b></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -29,15 +29,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b>Andy Hultgren</b><br><i>The impacts of climate change on global grain production, accounting for adaptation costs and benefits</i></td>
+      <td><b> <a target="_blank" href="http://www.globalpolicy.science/andy-hultgren">Andy Hultgren</a> </b><br><i>The impacts of climate change on global grain production, accounting for adaptation costs and benefits</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Ariel Ortiz-Bobea</b><br><i>A near-real time forecasting system of US crop yields</i></td>
+      <td><b> <a target="_blank" href="http://ortiz-bobea.dyson.cornell.edu/">Ariel Ortiz-Bobea</a> </b><br><i>A near-real time forecasting system of US crop yields</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Andrew Crane-Droesch</b><br><i>Semiparametric neural networks in Keras/Tensorflow</i></td>
+      <td><b> <a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/andrew-crane-droesch/">Andrew Crane-Droesch</a> </b><br><i>Semiparametric neural networks in Keras/Tensorflow</i></td>
     </tr>
     <tr>
       <td>10:30am</td>
@@ -45,7 +45,7 @@ description: >
     </tr>
     <tr>
       <td>10:45am</td>
-      <td><a href="http://www.jeffchen.org"><b>Jeff Chen</b></a></td>
+      <td><a target="_blank" href="http://www.jeffchen.org"><b>Jeff Chen</b></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -57,15 +57,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b>Esha Zaveri</b><br><i>The Nitrogen Legacy: Long-Term Effects of Water Pollution on Human Capital</i></td>
+      <td><b> <a target="_blank" href="https://www.eshazaveri.com/">Esha Zaveri</a> </b><br><i>The Nitrogen Legacy: Long-Term Effects of Water Pollution on Human Capital</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Ludovica Gazze</b> and <b>Olga Rostapshova</b><br><i>From Water Cops to Smart Meters: Designing Water Conservation Policy in the New Era of Automated Enforcement</i></td>
+      <td><b> <a target="_blank" href="http://home.uchicago.edu/~lgazze/">Ludovica Gazze</a> </b> and <b> <a href="https://epic.uchicago.edu/experts/olga-rostapshova">Olga Rostapshova</a> </b><br><i>From Water Cops to Smart Meters: Designing Water Conservation Policy in the New Era of Automated Enforcement</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Eric Edwards</b><br><i>Hydrologic Data in Water Economics: Institutions and Identification</i></td>
+      <td><b> <a target="_blank" href="https://www.ericcedwards.com/">Eric Edwards</a> </b><br><i>Hydrologic Data in Water Economics: Institutions and Identification</i></td>
     </tr>
     <tr>
       <td>12:15pm</td>
@@ -73,7 +73,7 @@ description: >
     </tr>
     <tr>
       <td>01:00pm</td>
-      <td><b>Keynote: <a href="https://www.meredithfowlie.com">Meredith Fowlie</a></b></td>
+      <td><b>Keynote: <a target="_blank" href="https://www.meredithfowlie.com">Meredith Fowlie</a></b></td>
     </tr>
     <tr>
       <td>01:30pm</td>
@@ -81,7 +81,7 @@ description: >
     </tr>
     <tr>
       <td>01:45pm</td>
-      <td><a href="https://www.anl.gov/profile/dan-l-goldberg"><b>Dan Goldberg</b></a></td>
+      <td><a target="_blank" href="https://www.anl.gov/profile/dan-l-goldberg"><b>Dan Goldberg</b></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -89,7 +89,7 @@ description: >
     </tr>
     <tr>
       <td>02:15pm</td>
-      <td><a href="http://www.globalpolicy.science/solomon-hsiang"><b>Sol Hsiang</b></a></td>
+      <td><a target="_blank" href="http://www.globalpolicy.science/solomon-hsiang"><b>Sol Hsiang</b></a></td>
     </tr>
     <tr>
       <td> </td>
@@ -101,7 +101,7 @@ description: >
     </tr>
     <tr>
       <td>03:00pm</td>
-      <td><b><a href="http://baylislab.ace.illinois.edu/">Kathy Baylis</a></b></td>
+      <td><b><a target="_blank" href="http://baylislab.ace.illinois.edu/">Kathy Baylis</a></b></td>
     </tr>
     <tr>
       <td> </td>
@@ -109,7 +109,7 @@ description: >
     </tr>
     <tr>
       <td>03:30pm</td>
-      <td><b> <a href="http://www.jacoblariviere.com/">Jacob LaRiviere</a> </b></td>
+      <td><b> <a target="_blank" href="http://www.jacoblariviere.com/">Jacob LaRiviere</a> </b></td>
     </tr>
     <tr>
       <td> </td>
@@ -121,7 +121,7 @@ description: >
     </tr>
     <tr>
       <td>04:15pm</td>
-      <td>Lightning round #1</td>
+      <td> <a href="../lightning1/"><b>Lightning round #1</b></a> </td>
     </tr>
     <tr>
       <td>05:15pm</td>
@@ -148,7 +148,7 @@ description: >
     </tr>
     <tr>
       <td>09:00am</td>
-      <td><b> <a href="https://www.uiuc-bdeep.org/christensen">Peter Christensen</a> </b></td>
+      <td><b> <a target="_blank" href="https://www.uiuc-bdeep.org/christensen">Peter Christensen</a> </b></td>
     </tr>
     <tr>
       <td> </td>
@@ -160,15 +160,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b>Katerine Meckel</b><br><i>Can Machine Learning Improve Targeting of Environmental Inspections? Evidence from EPA’s RCRA Program</i></td>
+      <td><b> <a target="_blank" href="https://sites.google.com/view/katherinemeckel/home">Katerine Meckel</a> </b><br><i>Can Machine Learning Improve Targeting of Environmental Inspections? Evidence from EPA’s RCRA Program</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Sam Stolper</b><br><i>Machine-Learning the Impacts of Behavioral Interventions: Evidence from Household Energy Use</i></td>
+      <td><b> <a target="_blank" href="https://sites.google.com/view/sstolper/">Sam Stolper</a> </b><br><i>Machine-Learning the Impacts of Behavioral Interventions: Evidence from Household Energy Use</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Leslie Martin</b><br><i>The Margins of Response to Road Use Prices</i></td>
+      <td><b> <a target="_blank" href="http://www.lesliemartin.org/">Leslie Martin</a> </b><br><i>The Margins of Response to Road Use Prices</i></td>
     </tr>
     <tr>
       <td>10:30am</td>
@@ -176,7 +176,7 @@ description: >
     </tr>
     <tr>
       <td>10:45am</td>
-      <td>Lightning round #2</td>
+      <td> <a href="../lightning2/"><b>Lightning round #2</b></a> </td>
     </tr>
     <tr>
       <td>12:00pm</td>
@@ -184,7 +184,7 @@ description: >
     </tr>
     <tr>
       <td>12:45am</td>
-      <td> <a href="https://ivanrudik.com/"> <b>Ivan Rudik</b> </a> </td>
+      <td> <a target="_blank" href="https://ivanrudik.com/"> <b>Ivan Rudik</b> </a> </td>
     </tr>
     <tr>
       <td> </td>
@@ -196,15 +196,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b>Antonio Bento</b><br><i>A New Approach to Measuring Climate Change Impacts and Adaptation</i></td>
+      <td><b> <a target="_blank" href="https://priceschool.usc.edu/people/antonio-m-bento/">Antonio Bento</a> </b><br><i>A New Approach to Measuring Climate Change Impacts and Adaptation</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Felipe Jordan</b><br><i>Land tenure reforms and sustainable development: Evidence from a natural experiment in Southern Chile</i></td>
+      <td><b> <a target="_blank" href="https://www.iq.harvard.edu/people/felipe-jordan">Felipe Jordan</a> </b><br><i>Land tenure reforms and sustainable development: Evidence from a natural experiment in Southern Chile</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>David McLaughlin</b><br><i>Remote Sensing and Machine Learning to Study the Effect of Land Titling on Land Use in Mexico</i></td>
+      <td><b> <a target="_blank" href="https://are.berkeley.edu/users/dave-mclaughlin">David McLaughlin</a> </b><br><i>Remote Sensing and Machine Learning to Study the Effect of Land Titling on Land Use in Mexico</i></td>
     </tr>
     <tr>
       <td>02:15pm</td>
@@ -212,7 +212,7 @@ description: >
     </tr>
     <tr>
       <td>02:30pm</td>
-      <td> <a href="https://www.danham.me/r/about.html"> <b>Dan Hammer</b> </a> </td>
+      <td> <a target="_blank" href="https://www.danham.me/r/about.html"> <b>Dan Hammer</b> </a> </td>
     </tr>
     <tr>
       <td> </td>
@@ -224,11 +224,11 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b>Justin Kirkpatrick</b><br><i>Peer Effects In Rooftop Solar Adoptions</i></td>
+      <td><b> <a target="_blank" href="https://sites.duke.edu/ajustinkirkpatrick/">Justin Kirkpatrick</a> </b><br><i>Peer Effects In Rooftop Solar Adoptions</i></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b>Thanh Nguyen</b><br><i>AI-based Solutions for Wildlife Security</i></td>
+      <td><b> <a target="_blank" href="https://ix.cs.uoregon.edu/~thanhhng/">Thanh Nguyen</a> </b><br><i>AI-based Solutions for Wildlife Security</i></td>
     </tr>
     <tr>
       <td>02:40pm</td>

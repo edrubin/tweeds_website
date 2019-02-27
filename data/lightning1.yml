@@ -1,0 +1,36 @@
+enable  : true
+title   : Lightning talks, round 1
+description: >
+
+  <p>
+    <b>Please note:</b> Each talk lasts five minutes.
+  </p>
+
+  <p><b>Elinor Benami</b><br>
+  Machine Learning for environmental risk detection: From model to field trial</p>
+  <p><b>Tamma Carleton</b><br>
+  Causal identification with remotely sensed data: Problems, solutions, and an application</p>
+  <p><b>Cuicui Chen</b><br>
+  Evaluating the Paris Agreement’s Mitigation Pledges with Statistical Forecasting Models</p>
+  <p><b>Gabe Englander</b><br>
+  Property rights lead to protection of global marine resources</p>
+  <p><b>James Gillan</b><br>
+  The Economics of Targeting: Theory and Evidence from a Field Experiment</p>
+  <p><b>Kilian Heilmann</b><br>
+  Using remote sensing for small area economic forecasting</p>
+  <p><b>Danae Hernandez-Cortes</b><br>
+  A Guide to Modeling Environmental Spillovers: Implications for Quasi-Experimental Research</p>
+  <p><b>Akshaya Jha</b><br>
+  The Economic Cost of Environmental Regulations: Evidence from the U.S. Electricity Sector, 1938-1999</p>
+  <p><b>Raquel Jimenez</b><br>
+  Air pollution and academic performance in school children: Preliminary results from a study in Chile</p>
+  <p><b>Jonathan Kadish</b><br>
+  ML Classification and OLS: Opening the black box</p>
+  <p><b>Richard Klotz</b><br>
+  Correlated Pollutants, Avoidance, and Local Environmental Policy: Analyzing California’s Ocean-Going Vessel Fuel Rule</p>
+  <p><b>Lea Kosnik</b><br>
+  Text Analysis and Economics Research</p>
+
+  <h5 style="color:black">Other questions?</h5>
+  <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+image   : images/about/space.jpg

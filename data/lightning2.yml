@@ -1,0 +1,40 @@
+enable  : true
+title   : Lightning talks, round 2
+description: >
+
+  <p>
+    <b>Please note:</b> Each talk lasts five minutes.
+  </p>
+
+  <p><b>Eva Lyubich</b><br>
+  Can Cities Lead on Climate Change?</p>
+  <p><b>Renato Molina</b><br>
+  The Economic Impact of Modern Piracy on Global Shipping</p>
+  <p><b>Alejandro Molnar</b><br>
+  The marginal congestion of a taxi in New York City</p>
+  <p><b>Fran Moore</b><br>
+  Characterizing and Detecting the Emerging Influence of Anthropogenic Warming on Global Crop Yields</p>
+  <p><b>Christoph Nolte</b><br>
+  Effects of private land conservation: a system for large-scale, fine-resolution hypothesis testing with satellites and parcel data</p>
+  <p><b>Bryan Parthum</b><br>
+  You are here: Bringing new life, and methods, to stated preference research</p>
+  <p><b>Jonathan Proctor</b><br>
+  The Agricultural Impacts of Clouds: Implications for Climate Change, Geoengineering and Air Pollution Policy</p>
+  <p><b>Ritvik Sahajpal</b><br>
+  Global Scale Crop Yield and Condition Forecasting System Using Earth Observation Datasets</p>
+  <p><b>Noelle Selin</b><br>
+  Using Data to Evaluate Air Quality and Health from Policies to Impacts</p>
+  <p><b>Erin Steiner</b><br>
+  Government data reports: out of the pdf and into the interactive web app</p>
+  <p><b>Daniel Sullivan</b><br>
+  Using Satellite Data to Fill the Gaps in the US Air Pollution Monitoring Network</p>
+  <p><b>Bixuan Sun</b><br>
+  Heterogeneous Impacts of Residential Solar Rebate Programs in the US: A Machine Learning Perspective</p>
+  <p><b>John Voorheis</b><br>
+  Pollution and the Intergenerational Transmission of Human Capital: Evidence from the 1970 Clean Air Act</p>
+  <p><b>Matthew Wibbenmeyer</b><br>
+  Burning down the house: Priorities and effectiveness in wildfire management</p>
+
+  <h5 style="color:black">Other questions?</h5>
+  <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+image   : images/about/space.jpg
