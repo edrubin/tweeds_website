@@ -10,7 +10,9 @@ description: >
   <p><h4>Sponsors:</h4></p>
   <center>
   <p><a href="https://economics.uoregon.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oregon_Ducks_logo.svg/2000px-Oregon_Ducks_logo.svg.png" alt="UO Dept. of Economics" style="width:136px;height:113px;"></a><br><h4>Economics</h4></p>
-  <p><a href="https://microsoft.com" target="_blank"><img src="https://raw.githubusercontent.com/edrubin/tweeds_website/master/public/images/about/microsoft.png" alt="Microsoft" style="height:113px;"></a></p>
+  <br>
+  <p><h1><a href="https://microsoft.com" target="_blank" style="color:#4d4e4f">Microsoft</a></h1></p>
+  <br>
   <p><a href="https://yourwritinghelper.com/" target="_blank"><img src="https://raw.githubusercontent.com/edrubin/tweeds_website/master/public/images/about/ywh.png" alt="Your Writing Helper" style="height:130px;"></a></p>
   </center>
 
@@ -35,6 +37,12 @@ description: >
   </p>
 
   <p><b>Bonus:</b> <a href="https://pdx.eater.com/maps/16-great-portland-coffee-shops">Eater's top 16 spots for coffee in Portland.</a></p>
+
+  <p><h4>Recommendations: Breweries</h4></p>
+     🍺 <a href="https://www.thrillist.com/drink/portland/best-portland-breweries">Thrillist's guide to Portland breweries</a>
+    <br> 🍺 <a href="https://www.beervanablog.com/beervana/2017/12/21/portlands-best-breweries">Beervana's guide to Portland breweries</a>
+    <br> 🍺 <a href="https://pdx.eater.com/maps/best-portland-breweries-oregon-beer">Eater's guide to Portland breweries</a>
+  </p>
 
   <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
 

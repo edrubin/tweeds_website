@@ -33,11 +33,11 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="http://ortiz-bobea.dyson.cornell.edu/">Ariel Ortiz-Bobea</a> </b><br><i>A near-real time forecasting system of US crop yields</i></td>
+      <td><b> <a target="_blank" href="http://ortiz-bobea.dyson.cornell.edu/">Ariel Ortiz-Bobea</a> </b><br><i>A near-real time forecasting system of US crop yields.</i> <a target="_blank" href="/presentations/ortiz_bobea_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/andrew-crane-droesch/">Andrew Crane-Droesch</a> </b><br><i>Semiparametric neural networks in Keras/Tensorflow</i></td>
+      <td><b> <a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/andrew-crane-droesch/">Andrew Crane-Droesch</a> </b><br><i>Semiparametric neural networks in Keras/Tensorflow.</i> <a target="_blank" href="/presentations/crane_droesch_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td>10:30am</td>
@@ -45,11 +45,11 @@ description: >
     </tr>
     <tr>
       <td>10:45am</td>
-      <td><a target="_blank" href="https://seas.umich.edu/research/faculty/meha_jain"><b>Meha Jain</b></a></td>
+      <td> <a target="_blank" href="https://www.danham.me/r/about.html"> <b>Dan Hammer</b> </a> </td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Using Satellite Data for Sustainable Agriculture</i></td>
+      <td> <i>Last-mile environmental-data communication</i> <a target="_blank" href="/presentations/hammer_slides.pdf">[slides]</a> </td>
     </tr>
     <tr>
       <td>11:15am</td>
@@ -65,7 +65,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://www.ericcedwards.com/">Eric Edwards</a> </b><br><i>Hydrologic Data in Water Economics: Institutions and Identification</i></td>
+      <td><b> <a target="_blank" href="https://www.ericcedwards.com/">Eric Edwards</a> </b><br><i>Hydrologic Data in Water Economics: Institutions and Identification.</i> <a target="_blank" href="/presentations/edwards_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td>12:15pm</td>
@@ -74,6 +74,10 @@ description: >
     <tr>
       <td>01:00pm</td>
       <td><b>Keynote: <a target="_blank" href="https://www.meredithfowlie.com">Meredith Fowlie</a></b></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>From Big Data to Big Decisions. </i> <a target="_blank" href="/presentations/fowlie_slides.pdf"> [slides]</a></td>
     </tr>
     <tr>
       <td>01:30pm</td>
@@ -85,7 +89,8 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><i>Using satellite data to estimate air pollutant emissions and concentrations at high spatiotemporal resolution</i></td>
+      <td><i>Using satellite data to estimate air pollutant emissions and concentrations at high spatiotemporal resolution.</i> <a target="_blank" href="/presentations/goldberg_slides.pdf">[slides]</a>
+      </td>
     </tr>
     <tr>
       <td>02:15pm</td>
@@ -93,7 +98,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><i>Machine learning, weather predictions, and school closures</i></td>
+      <td><i>Machine learning, weather predictions, and school closures.</i> <a target="_blank" href="/presentations/chen_slides.pdf"> [slides]</a></td>
     </tr>
     <tr>
       <td>02:45pm</td>
@@ -105,7 +110,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td> <i> Machine learning </i> </td>
+      <td> <i> Machine learning. </i> <a target="_blank" href="/presentations/baylis_slides.pdf"> [slides]</a> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>  • <a target="_blank" href="/presentations/baylis_review_paper.pdf"> <i> Machine learning in agricultural and applied economics </i></a> </td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>  • <a target="_blank" href="/presentations/baylis_working_paper.pdf"> <i>Identifying effects of farm subsidies onstructural change using neural networks</i></a> </td>
     </tr>
     <tr>
       <td>03:30pm</td>
@@ -114,6 +127,10 @@ description: >
     <tr>
       <td> </td>
       <td><i>Predicting Famine: The Importance of ML Model Interpretability and Back-End Data Structures</i></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a target="_blank" href="https://homes.cs.washington.edu/~marcotcr/blog/lime/">LIME: Local Interpretable Model-Agnostic Explanations</a></td>
     </tr>
     <tr>
       <td>04:00pm</td>
@@ -152,7 +169,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td> <i>Opportunities for data science in field experiments</i> </td>
+      <td> <i>Data Science in Field Experiments: Putting Bots to Work on Housing Discrimination</i> </td>
     </tr>
     <tr>
       <td>09:30am</td>
@@ -160,11 +177,11 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://sites.google.com/view/katherinemeckel/home">Katerine Meckel</a> </b><br><i>Can Machine Learning Improve Targeting of Environmental Inspections? Evidence from EPA’s RCRA Program</i></td>
+      <td><b> <a target="_blank" href="https://sites.google.com/view/katherinemeckel/home">Katherine Meckel</a> </b><br><i>Can Machine Learning Improve Targeting of Environmental Inspections? Evidence from EPA’s RCRA Program.</i> <a target="_blank" href="/presentations/meckel_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://sites.google.com/view/sstolper/">Sam Stolper</a> </b><br><i>Machine-Learning the Impacts of Behavioral Interventions: Evidence from Household Energy Use</i></td>
+      <td><b> <a target="_blank" href="https://sites.google.com/view/sstolper/">Sam Stolper</a> </b><br><i>Machine-Learning the Impacts of Behavioral Interventions: Evidence from Household Energy Use</i> <a target="_blank" href="/presentations/stolper_slides.pdf">[slides]</a> </td>
     </tr>
     <tr>
       <td> </td>
@@ -188,7 +205,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><i>Valuing Science Policy: Dynamic Decision-Making With Generalized Bayesian Learning</i></td>
+      <td><i>Valuing Science Policy: Dynamic Decision-Making With Generalized Bayesian Learning.</i> <a target="_blank" href="/presentations/rudik_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td>01:15pm</td>
@@ -196,7 +213,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://priceschool.usc.edu/people/antonio-m-bento/">Antonio Bento</a> </b><br><i>A New Approach to Measuring Climate Change Impacts and Adaptation</i></td>
+      <td><b> <a target="_blank" href="https://priceschool.usc.edu/people/antonio-m-bento/">Antonio Bento</a> </b><br><i>A New Approach to Measuring Climate Change Impacts and Adaptation.</i> <a target="_blank" href="/presentations/bento_slides.pdf"> [slides]</a></td>
     </tr>
     <tr>
       <td> </td>
@@ -204,7 +221,7 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://are.berkeley.edu/users/dave-mclaughlin">David McLaughlin</a> </b><br><i>Remote Sensing and Machine Learning to Study the Effect of Land Titling on Land Use in Mexico</i></td>
+      <td><b> <a target="_blank" href="https://are.berkeley.edu/users/dave-mclaughlin">David McLaughlin</a> </b><br><i>Remote Sensing and Machine Learning to Study the Effect of Land Titling on Land Use in Mexico</i> <a target="_blank" href="/presentations/mclaughlin_slides.pdf">[slides]</a> </td>
     </tr>
     <tr>
       <td>02:15pm</td>
@@ -212,11 +229,11 @@ description: >
     </tr>
     <tr>
       <td>02:30pm</td>
-      <td> <a target="_blank" href="https://www.danham.me/r/about.html"> <b>Dan Hammer</b> </a> </td>
+      <td><a target="_blank" href="https://seas.umich.edu/research/faculty/meha_jain"><b>Meha Jain</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td> <i>Last-mile environmental-data communication</i> </td>
+      <td><i>Using Satellite Data for Sustainable Agriculture.</i> <a target="_blank" href="/presentations/jain_slides.pdf"> [slides]</a></td>
     </tr>
     <tr>
       <td>03:00pm</td>
@@ -228,19 +245,30 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><b> <a target="_blank" href="https://ix.cs.uoregon.edu/~thanhhng/">Thanh Nguyen</a> </b><br><i>AI-based Solutions for Wildlife Security</i></td>
+      <td><b> <a target="_blank" href="https://ix.cs.uoregon.edu/~thanhhng/">Thanh Nguyen</a> </b><br><i>AI-based Solutions for Wildlife Security</i> <a target="_blank" href="/presentations/nguyen_slides.pdf">[slides]</a></td>
     </tr>
     <tr>
       <td>03:40pm</td>
-      <td><font color="#53BAD2">Good bye</font></td>
+      <td><font color="#53BAD2">Wrap up!</font></td>
     </tr>
     <tr>
       <td> </td>
-      <td>👋</td>
     </tr>
     <tr>
-      <td>06:00pm</td>
-      <td><font color="#53BAD2">Meet up for drinks/dinner</font></td>
+      <td>04:30pm</td>
+      <td><font color="#53BAD2">Meet up for drinks/food/chat</font></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><a href="https://www.google.com/maps/dir/White+Stag,+Northwest+Couch+Street,+Portland,+OR/Old+Town+Pizza,+226+NW+Davis+St,+Portland,+OR+97209/@45.5239997,-122.6725373,18.36z/data=!4m14!4m13!1m5!1m1!1s0x5495a0a9fd80ff99:0x30cace5a41c36262!2m2!1d-122.6704898!2d45.5233729!1m5!1m1!1s0x54950a00bc77da75:0x2157f9678b483f32!2m2!1d-122.6730042!2d45.5243779!3e2">Old Town Brewing/Pizza</a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>226 NW Davis St, Portland, Oregon</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><font size="6">🍻</font> <font size="5">👋</font></td>
     </tr>
   </table>
   </p>

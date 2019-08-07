@@ -51,9 +51,11 @@ googleAnalytics = "UA-88887510-3"
         description = "Join us in Portland, Oregon on March 29 and 30 (2019) for an intimate workshop focused on the methodological frontiers of environmental economics and data science."
         # btn     = false
         btn     = true
-        btnText = "Apply"
+        # btnText = "Apply"
         # btnURL  = "https://edrubin.typeform.com/to/YvQE7p"
-        btnURL  = "https://edrubin.typeform.com/to/j6t3I1"
+        # btnURL  = "https://edrubin.typeform.com/to/j6t3I1"
+        btnText = "Join Email List"
+        btnURL  = "https://edrubin.typeform.com/to/NSkw1w"
         [[params.banner.flipText]]
             title   = "air quality"
         [[params.banner.flipText]]
