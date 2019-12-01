@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on TWEEDS | The workshop in environmental economics and data science</title>
@@ -6,98 +6,44 @@
     <description>Recent content in Portfolios on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 01:01:20 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Meredith Fowlie</title>
-      <link>/portfolio/fowlie/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0600</pubDate>
+      <title>Fiona Burlig</title>
+      <link>/portfolio/burlig/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:20 +0000</pubDate>
       
-      <guid>/portfolio/fowlie/</guid>
+      <guid>/portfolio/burlig/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kathy Baylis</title>
-      <link>/portfolio/baylis/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0601</pubDate>
+      <title>Julia Lowndes</title>
+      <link>/portfolio/lowndes/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:10 +0000</pubDate>
       
-      <guid>/portfolio/baylis/</guid>
+      <guid>/portfolio/lowndes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jeff Chen</title>
-      <link>/portfolio/chen/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0602</pubDate>
+      <title>Seema Jayachandran</title>
+      <link>/portfolio/jayachandran/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:10 +0000</pubDate>
       
-      <guid>/portfolio/chen/</guid>
+      <guid>/portfolio/jayachandran/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Peter Christensen</title>
-      <link>/portfolio/christensen/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0603</pubDate>
+      <title>More soon...</title>
+      <link>/portfolio/more/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:00 +0000</pubDate>
       
-      <guid>/portfolio/christensen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan Goldberg</title>
-      <link>/portfolio/goldberg/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0604</pubDate>
-      
-      <guid>/portfolio/goldberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dan Hammer</title>
-      <link>/portfolio/hammer/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0605</pubDate>
-      
-      <guid>/portfolio/hammer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Solomon Hsiang</title>
-      <link>/portfolio/hsiang/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0605</pubDate>
-      
-      <guid>/portfolio/hsiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meha Jain</title>
-      <link>/portfolio/jain/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0606</pubDate>
-      
-      <guid>/portfolio/jain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacob LaRiviere</title>
-      <link>/portfolio/lariviere/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0607</pubDate>
-      
-      <guid>/portfolio/lariviere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ivan Rudik</title>
-      <link>/portfolio/rudik/</link>
-      <pubDate>Thu, 12 Jul 2018 16:59:54 +0608</pubDate>
-      
-      <guid>/portfolio/rudik/</guid>
+      <guid>/portfolio/more/</guid>
       <description></description>
     </item>
     

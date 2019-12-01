@@ -47,8 +47,8 @@ googleAnalytics = "UA-88887510-3"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "The workshop in environmental <br> economics and data science"
-        description = "Join us in Portland, Oregon on March 29 and 30 (2019) for an intimate workshop focused on the methodological frontiers of environmental economics and data science."
+        heading = "The workshop in environmental <br> economics and data science <br> (v2.0)"
+        description = "Join us in Portland, Oregon on March 27 and 28 (2020) for an intimate workshop focused on the methodological frontiers of environmental economics and data science."
         # btn     = false
         btn     = true
         # btnText = "Apply"
@@ -79,17 +79,17 @@ googleAnalytics = "UA-88887510-3"
     [params.about]
         enable  = true
         title   = "when + where"
-        content = "29–30 March 2019 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Applications closed 31 December 2018. <br>  Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+        content = "27–28 March 2020 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> If an awesome, methods-first conference is not enough, how about a great neighborhood in a terrific city? <br> <br> <b>Note:</b> Applications are due 05 January 2020. <br>  Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
         image   = "images/portland/portland_white_stag.jpg"
 
     # Call to Action
     [params.cta]
-        enable  = false
-        title   = "Questions?"
-        content = "Please contact Ed Rubin"
+        enable  = true
+        title   = "Interested?"
+        content = "Please join our mailling list"
         btn     = true
-        btnText = "Email Ed"
-        # btnURL  = "mailto:edwardr@uoregon.edu?Subject=TWEEDS"
+        btnText = "Join email list"
+        btnURL  = "https://edrubin.typeform.com/to/NSkw1w"
 
     # Portfolio Section On Homepage
     [params.portfolio]

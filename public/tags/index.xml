@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TWEEDS | The workshop in environmental economics and data science</title>
@@ -6,22 +6,13 @@
     <description>Recent content in Tags on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Business</title>
-      <link>/tags/business/</link>
-      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
-      
-      <guid>/tags/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Inspiration</title>
+      <title>inspiration</title>
       <link>/tags/inspiration/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
@@ -30,16 +21,7 @@
     </item>
     
     <item>
-      <title>Internet</title>
-      <link>/tags/internet/</link>
-      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
-      
-      <guid>/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Motivation</title>
+      <title>motivation</title>
       <link>/tags/motivation/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
@@ -48,7 +30,34 @@
     </item>
     
     <item>
-      <title>People</title>
+      <title>internet</title>
+      <link>/tags/internet/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>/tags/business/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
       <link>/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
@@ -57,7 +66,7 @@
     </item>
     
     <item>
-      <title>Plot</title>
+      <title>plot</title>
       <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
@@ -75,20 +84,11 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>regression</title>
       <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>/tags/tech/</link>
-      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
-      
-      <guid>/tags/tech/</guid>
       <description></description>
     </item>
     
