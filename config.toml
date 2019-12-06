@@ -76,7 +76,7 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "27–28 March 2020 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> <a href=\"https://edrubin.typeform.com/to/ZM16BZ\" target=\"_blank\">Applications</a> are <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+content = "27–28 March 2020 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> <a href=\"https://edrubin.typeform.com/to/ZM16BZ\" target=\"_blank\">Applications</a> are <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 image = "images/portland/portland_white_stag.jpg"
 
 # Call to Action
@@ -125,4 +125,4 @@ icon = "ion-social-github"
 link = "https://github.com/edrubin/tweeds"
 [[params.footer.social]]
 icon = "ion-paper-airplane"
-link = "mailto:edwardr@uoregon.edu?Subject=TWEEDS"
+link = "mailto:ed@tweeds.io?Subject=TWEEDS"
