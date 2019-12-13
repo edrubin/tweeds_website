@@ -49,7 +49,7 @@
         <div class="row">
             {{ range $index, $element:= where .Site.RegularPages "Type" "portfolio" }}
             {{ if ne .Params.group "Keynote speaker" }}
-            <div class="col-md-4 col-sm-6">
+            <div class="col-md-3 col-sm-4">
                 {{ $delay := mul $index 300 }}
                 <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="{{ $delay }}ms">
                     <div class="img-wrapper">

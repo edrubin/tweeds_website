@@ -1,5 +1,5 @@
 ---
-title: "More soon..."
+title: "More soon!"
 type: portfolio
 date: 2019-01-01T01:01:00
 caption:  

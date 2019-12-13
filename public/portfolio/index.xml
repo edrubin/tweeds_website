@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on TWEEDS | The workshop in environmental economics and data science</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Portfolios on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 01:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 01:01:30 +0000</lastBuildDate>
     
 	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marshall Burke</title>
+      <link>/portfolio/burke/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:30 +0000</pubDate>
+      
+      <guid>/portfolio/burke/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fiona Burlig</title>
@@ -17,6 +26,15 @@
       <pubDate>Tue, 01 Jan 2019 01:01:20 +0000</pubDate>
       
       <guid>/portfolio/burlig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Kroodsma</title>
+      <link>/portfolio/kroodsma/</link>
+      <pubDate>Tue, 01 Jan 2019 01:01:11 +0000</pubDate>
+      
+      <guid>/portfolio/kroodsma/</guid>
       <description></description>
     </item>
     
@@ -39,7 +57,7 @@
     </item>
     
     <item>
-      <title>More soon...</title>
+      <title>More soon!</title>
       <link>/portfolio/more/</link>
       <pubDate>Tue, 01 Jan 2019 01:01:00 +0000</pubDate>
       
