@@ -19,6 +19,12 @@ members  :
     orgSite     : https://patrickbaylis.com/
     github      : https://www.github.com/pbaylis
 
+  - name : Tamma Carleton
+    image : images/team/carleton.jpg
+    designation : Organizing Committee
+    description : Tamma is an environmental and resource economist, leveraging tools from applied microeconomics, remote sensing, and climate science to quantify the interactions between economic development and large-scale environmental change.
+    orgSite     : https://www.tammacarleton.com/
+
   - name  : Grant McDermott
     image : images/team/mcdermott.png
     designation : Organizing Committee
