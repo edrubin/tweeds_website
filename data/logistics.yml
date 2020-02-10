@@ -17,7 +17,9 @@ description: >
   <center>
   <p><a href="https://economics.uoregon.edu" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oregon_Ducks_logo.svg/2000px-Oregon_Ducks_logo.svg.png" alt="UO Dept. of Economics" style="width:136px;height:113px;"></a><br>The University of Oregon</p>
   <br>
-  <p><a href="https://economics.uoregon.edu" target="_blank"><img src="https://raw.githubusercontent.com/edrubin/tweeds_website/master/public/images/about/sloan.png" alt="The Sloan Foundation" style="width:136px;height:113px;"></a><br><h1><a href="https://sloan.org/" target="_blank" style="color:#4d4e4f">The Alfred P. Sloan Foundation</a></h1></p>
+  <p><a href="https://economics.uoregon.edu" target="_blank"><img src="https://raw.githubusercontent.com/edrubin/tweeds_website/master/public/images/about/sloan.png" alt="The Sloan Foundation" style="width:136px;height:113px;"></a>
+    <!-- <br><h1><a href="https://sloan.org/" target="_blank" style="color:#4d4e4f">The Alfred P. Sloan Foundation</a></h1> -->
+  </p>
   <br>
   <p><a href="https://yourwritinghelper.com/" target="_blank"><img src="https://raw.githubusercontent.com/edrubin/tweeds_website/master/public/images/about/ywh.png" alt="Your Writing Helper" style="height:130px;"></a></p>
   </center>
