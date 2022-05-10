@@ -1,0 +1,108 @@
+enable  : true
+title   : Happy hour
+description: >
+  <p>Some ideas for happy hour...</p>
+
+  <p>
+    <h4>Non-alcoholic cucumber collins</h4>
+    <ul>
+      <li>- 4 oz. soda water</li>
+      <li>- Lime juice (1 lime)</li>
+      <li>- Lemon juice (1/2 lemon)</li>
+      <li>- Agave nectar to taste</li>
+      <li>- 3 slices of cucmber</li>
+    </ul>
+    Add juice and agave to soda water. Stir briefly. Top with cucumber. Garnish: Mint (or more citrus).
+  </p>
+
+  <p>
+    <h4>Amaro spritz</h4>
+    <ul>
+      <li>- 3 oz. soda water</li>
+      <li>- 2 oz. amaro (try Cynar and/or )</li>
+      <li>- 2 oz. fresh lemon juice (1/2 a lemon)</li>
+      <li>- 2+ dashes of your favorite bitters (best: black walnut)</li>
+    </ul>
+    Pour all ingredients over a glass nearly filled with ice. Garnish with anything—savory is surprisingly nice (<i>e.g.</i>, olives).
+    <br><br><i><b>Non-alcoholic:</b></i> Swap out the amaro for cold-brew concentrate (or anything bitter—<i>e.g.</i>, tea).
+  </p>
+
+  <p>
+    <h4>Negroni</h4>
+    <ul>
+      <li>- 1 oz. gin</li>
+      <li>- 1 oz. Campari</li>
+      <li>- 1 oz. sweet vermouth</li>
+    </ul>
+    Stir with ice. Strain over ice. Garnish: Citrus peel (<i>Note:</i> Teevrat says this citrus peel must be torched first).
+  </p>
+
+  <p>
+    <h4>New Spain</h4>
+    <ul>
+      <li>- One 1/2-inch (1cm) thick slice of fresh ginger, peeled</li>
+      <li>- 1/2 oz. agave nectar</li>
+      <li>- 3/4 oz. fresh squeezed lime juice</li>
+      <li>- 2 oz. dry sherry</li>
+      <li>- 1 oz. best-quality mezcal such as Del Maguey Vida</li>
+    </ul>
+    Muddle ginger, agave, and lime juice in a shaker. Add sherry, mezcal, and ice (fill halfway). Shake. Strain onto ice. Garnish: Lime slice and nutmeg.
+    <br><i>Source:</i> <a href="https://www.davidlebovitz.com/the-new-spain-mezcal-sherry-cocktail/">David Lebovitz</a>
+  </p>
+
+  <p>
+    <h4>A very good margarita</h4>
+    <ul>
+      <li>- 1 to 1.5 oz. lime juice (fresh)</li>
+      <li>- 2 oz. water</li>
+      <li>- 1 to 2 oz. tequila (maybe better: mezcal)</li>
+      <li>- 1/2 oz agave nectar (to taste)</li>
+    </ul>
+    Pour ingredients over ice-filled shaker and shake. Strain (over ice, if desired).
+    <br><b><i>Bonus points:</i></b> Make it spicy (<i>e.g.</i>, Scrappy's Firewater Tincture)
+    <br><i>Source:</i> <a href="https://www.averiecooks.com/the-best-homemade-margaritas-all-natural-3-ingredients/">Averie Cooks</a>
+  </p>
+
+  <p>
+    <h4>Old Fashioned</h4>
+    <ul>
+      <li>- 1–2 teaspoons simple syrup (or 1 sugar cube)</li>
+      <li>- 2–3 dashes bitters (classic: Angostura)</li>
+      <li>- 2 oz. bourbon/rye whiskey</li>
+    </ul>
+    Add simple syrup (or sugar) and bitters to mixing glass and mix. Add ice and whiskey; mix. Garnish: orange peel and/or cherry.
+  </p>
+
+  <p>
+    <h4>Manhattan</h4>
+    <ul>
+      <li>- 2 oz. whiskey (esp. rye)</li>
+      <li>- 1 oz. sweet vermouth</li>
+      <li>- 2+ dashes bitters</li>
+    </ul>
+    Pour ingredients over ice. Stir. Strain. Garnish: Cherry.
+  </p>
+
+  <p>
+    <h4>Rum, lime, cola</h4>
+    <ul>
+      <li>Juice from 1 lime</li>
+      <li>- 4 oz. cola (<i>i.e.</i>, Coke)</li>
+      <li>- 2 oz. rum</li>
+    </ul>
+    Squeeze lime into Collins glass. Add ice, rum, and the "remains" of the lime. Stir.
+  </p>
+
+  <p>
+    <h4>White Russian</h4>
+    <ul>
+      <li>- 1 1/2 oz. vodka (or try rum)</li>
+      <li>- 3/4 oz. coffee liquer</li>
+      <li>- 3/4 oz. heavy cream</li>
+    </ul>
+    Pour vodka and coffee liquer over ice. Top with cream. Stir (or shake).
+  </p>
+
+  <br><p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+
+image   : images/about/toast.jpg

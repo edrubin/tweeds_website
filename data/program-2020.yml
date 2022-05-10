@@ -1,0 +1,262 @@
+enable  : true
+title   : Program
+description: >
+  <p>We will meet remotely via Zoom on <b>29–30 October 2020</b>.
+
+  <!-- <p><font color="#02bdd5"><h3>Last year's program</h3></font></p> -->
+
+  <p><b>All times are Pacific (<i>i.e.</i>, PDT).</b></p>
+
+  <p>
+    <br><b>Standard talks</b> are 12 minutes with 3 minutes for Q&A.
+    <br>Blocks of 2–3 talks are followed by 15 additional minutes for Q&A.
+    <br><br><b>Lightning talks</b> are 5 minutes each.
+  </p>
+
+  <p><h4>Thursday, 29 October 2020</h4></p>
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td>09:00am</td>
+      <td><font color="#53BAD2">Welcome/coffee/social</font></td>
+    </tr>
+    <tr>
+      <td>09:15am</td>
+      <td><a target="_blank" href="https://web.stanford.edu/~mburke/"><b>Marshall Burke</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Sustainable development from space</i></td>
+    </tr>
+    <tr>
+      <td>09:30am</td>
+      <td><a target="_blank" href="http://www.globalpolicy.science/peiley-lau"><b>Peiley Lau</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Identifying environmental misreporting from space: Evidence from natural gas flaring in the Bakken Shale</i></td>
+    </tr>
+      <td>09:45am</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>10:00am</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>10:15am</td>
+      <td><b>Keynote: <a target="_blank" href="https://faculty.wcas.northwestern.edu/~sjv340/index.html">Seema Jayachandran</a></b></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Crop residue burning in India</i></a></td>
+    </tr>
+    <tr>
+      <td>10:45am</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>11:00am</td>
+      <td><a target="_blank" href="https://sites.google.com/view/jenniferalix-garcia/home"><b>Jennifer Alix-Garcia</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Remotely Incorrect?</i></td>
+    </tr>
+    <tr>
+      <td>11:15am</td>
+      <td><a target="_blank" href="https://www.silviaterra.com/company"><b>Brian Clough</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Lessons learned from building SilviaTerra Basemap, a first of its kind forest data product for the United States</i></td>
+    </tr>
+    </tr>
+      <td>11:30am</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>11:45am</td>
+      <td><font color="#53BAD2">Break/lunch</font></td>
+    </tr>
+    <tr>
+      <td>12:15pm</td>
+      <td><a target="_blank" href="https://www.google.com/earth/outreach/special-projects/oceans/"><b>Brian Sullivan</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Moving from peta-pixels to things. Increasing transparency through ML and Data Science</i></td>
+    </tr>
+    <tr>
+      <td>12:30pm</td>
+      <td><a target="_blank" href="https://globalfishingwatch.org/meet-the-team/david-kroodsma/"><b>David Kroodsma</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Tracking the Actual Footprint of Fisheries: Fusing Radar and Vessel Telemetry Data to Reveal Global Vessel Traffic</i></td>
+    </tr>
+    <tr>
+      <td>12:45pm</td>
+      <td><a target="_blank" href="https://renatomolinah.com/"><b>Renato Molina</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>The value of improving hurricane forecasts</i></td>
+    </tr>
+    <tr>
+      <td>01:00pm</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>01:15pm</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>01:30pm</td>
+      <td> <a href="../lightning1/"><b>Lightning round #1</b></a> </td>
+    </tr>
+    <tr>
+      <td>02:15pm</td>
+      <td><font color="#53BAD2"><b>Happy hour</b></font></td>
+    </tr>
+  </table>
+  </p>
+
+  <p><h4>Friday, 30 October 2020</h4></p>
+
+  <p>
+  <table style="width:100%">
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+    <tr>
+      <td>09:00am</td>
+      <td><a target="_blank" href="https://www.fionaburlig.com/"><b>Fiona Burlig</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Groundwater, energy, and crop choice</i></td>
+    </tr>
+    <tr>
+      <td>09:15am</td>
+      <td><a target="_blank" href="https://mclevy.scrippsprofiles.ucsd.edu/"><b>Morgan Levy</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Water demand, land subsidence, and groundwater: Exploring data-driven approaches to freshwater sustainability challenges</i></td>
+    </tr>
+    <tr>
+      <td>09:30am</td>
+      <td><a target="_blank" href="https://rhiannonjerch.com/"><b>Rhiannon Jerch</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>The Local Benefits of Federal Mandates: Evidence from the Clean Water Act</i></td>
+    </tr>
+      <td>09:45am</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>10:00am</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>10:15am</td>
+      <td><a target="_blank" href="https://www.mcc-berlin.net/en/about/team/koch-nicolas.html"><b>Nicholas Koch</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Machine Learning from Big GPS Data about the Costs of Congestion</i></td>
+    </tr>
+    <tr>
+      <td>10:30am</td>
+      <td><a target="_blank" href="https://www.andrewrwaxman.com/"><b>Andrew Waxman</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Transportation Policies, Urban Structure, and Equilibrium Sorting</i></td>
+    </tr>
+    <tr>
+      <td>10:45am</td>
+      <td><a target="_blank" href="https://people.ucsc.edu/~adammb/index.html"><b>Adam Millard-Ball</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Street-network sprawl, worldwide</i></td>
+    </tr>
+    <tr>
+      <td>11:00am</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>11:15am</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>11:30am</td>
+      <td><a target="_blank" href="https://econjim.com/"><b>James Archsmith</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Adjustment on the margin: Evaluating emissions reduction policies in the face of short-run adjustment costs</i></td>
+    </tr>
+    <tr>
+      <td>11:45am</td>
+      <td><a target="_blank" href="https://catalyst.coop/team/"><b>Zane Selvans</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Clouds and PUDLs: a JupyterHub for Energy Systems Analysis</i></td>
+    </tr>
+    <tr>
+      <td>12:00pm</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    <tr>
+      <td>12:15pm</td>
+      <td><font color="#53BAD2">Break/lunch</font></td>
+    </tr>
+    <tr>
+      <td>12:45pm</td>
+      <td><a target="_blank" href="https://econpotter.com/"><b>Nicholas Potter</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Reproducible Geoprocessing of Agricultural, Climate, and Land Use Data at Scale with R</i></td>
+    </tr>
+    <tr>
+      <td>01:00pm</td>
+      <td><a target="_blank" href="https://fse.fsi.stanford.edu/people/patrick-behrer"><b>A. Patrick Behrer</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Earth, Wind, and Fire: The impact of anti-poverty efforts on Indian agriculture and air pollution</i></td>
+    </tr>
+    <tr>
+      <td>01:15pm</td>
+      <td><font color="#53BAD2">Post-talk Q&A</font></td>
+    </tr>
+    </tr>
+      <td>01:30pm</td>
+      <td><font color="#53BAD2">Break</font></td>
+    </tr>
+    <tr>
+      <td>01:45pm</td>
+      <td> <a href="../lightning2/"><b>Lightning round #2</b></a> </td>
+    </tr>
+    <tr>
+      <td>02:30pm</td>
+      <td><font color="#53BAD2"><b>Happy hour</b></font></td>
+    </tr>
+  </table>
+  </p>
+
+  <br><p>Please contact <a href="mailto:ed@tweeds.io?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+
+image   : images/about/benches.jpg

@@ -1,4 +1,4 @@
-baseURL = "http://tweeds.io/"
+baseURL = "https://tweeds.io/"
 languageCode = "en-us"
 title = "TWEEDS | The workshop in environmental economics and data science"
 theme = "timer-hugo"
@@ -48,7 +48,8 @@ logo_alt = "TWEEDS"
 enable = true
 bgImage = "images/slider.jpg"
 heading = "The workshop in environmental <br> economics and data science"
-description = "Join us in Portland, Oregon on March 27 and 28 (2020) for the second iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
+# description = "Join us in Portland, Oregon on March 27 and 28 (2020) for the second iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
+description = "Join us in Eugene, Oregon on October 7 and 8 (2022) for the third iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
 # btn = false
 btn = true
 # btnText = "Apply to attend!"
@@ -78,8 +79,9 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "27–28 March 2020 <br> <br> The University of Oregon's White Stag Building <br> Portland, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> Applications were <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
-image = "images/portland/portland_white_stag.jpg"
+content = "7–8 October 2022 <br> <br> The University of Oregon <br> Eugene, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> Applications <b>due 08 July 2022</b>. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+# content = "29–30 October 2020 (rescheduled) <br> Remote due to COVID-19 <br> Registration costs waved this year <br> <br> Applications were <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+image = "images/eugene/mug.png"
 
 # Call to Action
 [params.cta]
@@ -94,7 +96,7 @@ btnURL = "https://edrubin.typeform.com/to/GXk3q2"
 [params.portfolio]
 enable = true
 title = "speakers"
-subtitle= "Keynote speaker and presenters currently on the agenda."
+# subtitle= "Keynote speaker and presenters currently on the agenda."
 
 # Feature Product Section
 [params.featureProduct]
@@ -127,4 +129,4 @@ icon = "ion-social-github"
 link = "https://github.com/edrubin/tweeds"
 [[params.footer.social]]
 icon = "ion-paper-airplane"
-link = "mailto:ed@tweeds.io?Subject=TWEEDS"
+link = "mailto:edwardr@uoregon.edu?Subject=TWEEDS"

@@ -1,0 +1,23 @@
+enable  : true
+title   : Info
+description: >
+
+  <p>We will meet remotely via Zoom on <b>29–30 October 2020</b>.</p>
+
+  <p>Please <b>do not</b> share this page or the links publicly.</p>
+
+  <p>
+    <b>Zoom links:</b>
+    <ul>
+      <li><b>Thursday:</b> Done.</li>
+      <li>
+        <b>Friday:</b> <a href="https://uoregon.zoom.us/j/95233636405?pwd=Ym9SQWo0WlV1L2VsdTRjZnFCeEJpdz09">Link to meeting.</a>
+        <br>&emsp;<i>Meeting:</i> 952 3363 6405
+        <br>&emsp;<i>Pass:</i> tweeds
+      </li>
+    </ul>
+  </p>
+
+  <br><p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+
+image   : images/about/road.jpg

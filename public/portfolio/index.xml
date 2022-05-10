@@ -2,66 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on TWEEDS | The workshop in environmental economics and data science</title>
-    <link>/portfolio/</link>
+    <link>https://tweeds.io/portfolio/</link>
     <description>Recent content in Portfolios on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 01:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 01:01:10 +0000</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tweeds.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Marshall Burke</title>
-      <link>/portfolio/burke/</link>
-      <pubDate>Tue, 01 Jan 2019 01:01:30 +0000</pubDate>
-      
-      <guid>/portfolio/burke/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Fiona Burlig</title>
-      <link>/portfolio/burlig/</link>
-      <pubDate>Tue, 01 Jan 2019 01:01:20 +0000</pubDate>
-      
-      <guid>/portfolio/burlig/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Kroodsma</title>
-      <link>/portfolio/kroodsma/</link>
-      <pubDate>Tue, 01 Jan 2019 01:01:11 +0000</pubDate>
-      
-      <guid>/portfolio/kroodsma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Julia Lowndes</title>
-      <link>/portfolio/lowndes/</link>
+      <title>Paulina Oliva</title>
+      <link>https://tweeds.io/portfolio/oliva/</link>
       <pubDate>Tue, 01 Jan 2019 01:01:10 +0000</pubDate>
       
-      <guid>/portfolio/lowndes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seema Jayachandran</title>
-      <link>/portfolio/jayachandran/</link>
-      <pubDate>Tue, 01 Jan 2019 01:01:10 +0000</pubDate>
-      
-      <guid>/portfolio/jayachandran/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Sullivan</title>
-      <link>/portfolio/sullivan/</link>
-      <pubDate>Tue, 01 Jan 2019 01:01:00 +0000</pubDate>
-      
-      <guid>/portfolio/sullivan/</guid>
+      <guid>https://tweeds.io/portfolio/oliva/</guid>
       <description></description>
     </item>
     
