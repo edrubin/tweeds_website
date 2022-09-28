@@ -1,17 +1,19 @@
 enable  : true
 title   : Program
 description: >
-  <p>We will meet remotely via Zoom on <b>29–30 October 2020</b>.
+  <!-- <p>We will meet remotely via Zoom on <b>29–30 October 2020</b>. -->
 
   <!-- <p><font color="#02bdd5"><h3>Last year's program</h3></font></p> -->
 
-  <p><b>All times are Pacific (<i>i.e.</i>, PDT).</b></p>
+  <!-- <p><font color="#02bdd5"><h3>Program from 2020</h3></font></p> -->
 
-  <p>
-    <br><b>Standard talks</b> are 12 minutes with 3 minutes for Q&A.
-    <br>Blocks of 2–3 talks are followed by 15 additional minutes for Q&A.
-    <br><br><b>Lightning talks</b> are 5 minutes each.
-  </p>
+  <!-- <p><b>All times are Pacific (<i>i.e.</i>, PDT).</b></p> -->
+
+  <!-- <p> -->
+    <!-- <br><b>Standard talks</b> are 12 minutes with 3 minutes for Q&A. -->
+    <!-- <br>Blocks of 2–3 talks are followed by 15 additional minutes for Q&A. -->
+    <!-- <br><br><b>Lightning talks</b> are 5 minutes each. -->
+  <!-- </p> -->
 
   <p><h4>Thursday, 29 October 2020</h4></p>
 
@@ -118,7 +120,7 @@ description: >
     </tr>
     <tr>
       <td>01:30pm</td>
-      <td> <a href="../lightning1/"><b>Lightning round #1</b></a> </td>
+      <td> <a href="../lightning12020/"><b>Lightning round #1</b></a> </td>
     </tr>
     <tr>
       <td>02:15pm</td>
@@ -248,7 +250,7 @@ description: >
     </tr>
     <tr>
       <td>01:45pm</td>
-      <td> <a href="../lightning2/"><b>Lightning round #2</b></a> </td>
+      <td> <a href="../lightning22020/"><b>Lightning round #2</b></a> </td>
     </tr>
     <tr>
       <td>02:30pm</td>

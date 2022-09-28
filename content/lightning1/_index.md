@@ -1,3 +1,3 @@
 ---
-title: "Lightning talks, round 1"
+title: "Lightning talks, vol. 1"
 ---

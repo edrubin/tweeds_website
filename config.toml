@@ -50,12 +50,12 @@ bgImage = "images/slider.jpg"
 heading = "The workshop in environmental <br> economics and data science"
 # description = "Join us in Portland, Oregon on March 27 and 28 (2020) for the second iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
 description = "Join us in Eugene, Oregon on October 7 and 8 (2022) for the third iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
-# btn = false
-btn = true
-# btnText = "Apply to attend!"
-# btnURL = "https://edrubin.typeform.com/to/ZM16BZ"
-btnText = "Mailing list"
-btnURL = "https://edrubin.typeform.com/to/GXk3q2"
+btn = false
+# btn = true
+btnText = "Apply to present or attend!"
+btnURL = "https://edrubin.typeform.com/to/sK19fAwV"
+# btnText = "Mailing list"
+# btnURL = "https://edrubin.typeform.com/to/GXk3q2"
 [[params.banner.flipText]]
 title = "air quality"
 [[params.banner.flipText]]
@@ -79,18 +79,18 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "7–8 October 2022 <br> <br> The University of Oregon <br> Eugene, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> Applications <b>due 08 July 2022</b>. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+content = "7–8 October 2022 <br> <br> The University of Oregon <br> Eugene, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> Applications were due 30 June 2022. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 # content = "29–30 October 2020 (rescheduled) <br> Remote due to COVID-19 <br> Registration costs waved this year <br> <br> Applications were <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
-image = "images/eugene/mug.png"
+image = "https://github.com/edrubin/tweeds_website/blob/master/public/images/eugene/mug.png?raw=true"
 
 # Call to Action
 [params.cta]
-enable = true
+enable = false
 title = "Interested?"
-content = "Join our mailing list"
+content = "Submit your application!<br>Applications are due June 30th."
 btn = true
-btnText = "Mailing list"
-btnURL = "https://edrubin.typeform.com/to/GXk3q2"
+btnText = "Apply"
+btnURL = "https://edrubin.typeform.com/to/sK19fAwV"
 
 # Portfolio Section On Homepage
 [params.portfolio]

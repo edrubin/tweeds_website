@@ -1,0 +1,30 @@
+enable  : true
+title   : Lightning talks, round 1
+description: >
+
+  <p>
+    <b>Please note:</b> Each talk lasts five minutes.
+  </p>
+
+  <p><b>Sandra Aguilar Gomez</b><br>
+  Raising the bar: the economics if air quality warnings</p>
+  <p><b>Jesse Anttila-Hughes</b><br>
+  Characterizing the contribution of high temperatures to child undernourishment in Sub-Saharan Africa</p>
+  <p><b>Judson Boomhower</b><br>
+  The Electoral Salience of Environmental Externalities: Evidence from Fracking</p>
+  <p><b>Justin Kirkpatrick</b><br>
+  Estimating Congestion Benefits of Batteries for Unobserved Networks: A Machine Learning Approach</p>
+  <p><b>Teevrat Garg</b><br>
+  Can Social Protection Reduce Environmental Damages?</p>
+  <p><b>Grant Jacobsen</b><br>
+  How Do Consumers Respond to Price Complexity? Experimental Evidence from the Power Sector</p>
+  <p><b>Stephen Jarvis</b><br>
+  The Private and External Costs of Germany's Nuclear Phase-Out</p>
+  <p><b>Nathaniel Merrill</b><br>
+  Estimating Recreation Demand with Cellular Device Location Data</p>
+  <p><b>Kelton Minor</b><br>
+  Nocturnal Warming and Human Sleep</p>
+
+  <h5 style="color:black">Other questions?</h5>
+  <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+image   : images/about/wind.jpg

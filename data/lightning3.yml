@@ -1,0 +1,25 @@
+enable  : true
+image   : images/about/benches.jpg
+title   : Lightning talks, vol. 3
+description: >
+
+  <p>
+    <b>Please note:</b> Each talk lasts five minutes.
+  </p>
+
+  <p><b>Robert Heilmayr</b><br>
+  Conservation impact evaluation using remotely sensed data
+  <p><b>Joel Ferguson</b><br>
+  Deep learning the effects of weather shocks on conflict
+  <p><b>Jacob Bradt</b><br>
+  Private benefits from public investment in climate adaptation and resilience
+  <p><b>Justin Gallagher</b><br>
+  Retrospective voting and natural disasters that cause no damage: Accounting for the selective reporting of weather damage
+  <p><b>Christopher Callahan</b><br>
+  Internal climate variability shapes climate damage projections
+  <p><b>Annika Stechemesser</b><br>
+  Temperature impacts on hate speech online: Evidence from four billion tweets
+
+  <h5 style="color:black">Other questions?</h5>
+  <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+

@@ -1,30 +1,27 @@
 enable  : true
-title   : Lightning talks, round 2
+image   : images/about/benches.jpg
+title   : Lightning talks, vol. 2
 description: >
 
   <p>
     <b>Please note:</b> Each talk lasts five minutes.
   </p>
 
-  <p><b>Nick Hagerty</b><br>
-  Adaptation to Water Scarcity in Irrigated Agriculture</p>
-  <p><b>Scott Holladay</b><br>
-  The future of coal-fired generators</p>
-  <p><b>Kendall Houghton</b><br>
-  Childcare and the New Part-Time: Gender Gaps in Long-Hour Professions</p>
-  <p><b>Fanny Moffette</b><br>
-  The Impact of Near Real-Time Deforestation Alerts Across the Tropics</p>
-  <p><b>Fran Moore</b><br>
-  Using Remarkability to Define Coastal Flooding Thresholds</p>
-  <p><b>Mariia Murasheva</b><br>
-  Sometimes an old friend is better than two new ones</p>
-  <p><b>Kilian Heilmann</b><br>
-  Information Frictions in a two-sided transportation market: Implications for the environmental impact of the freight sector</p>
-  <p><b>Christoph Nolte</b><br>
-  High-resolution land value estimates reveal underestimation of conservation cost in the U.S.</p>
-  <p><b>Dan Ovando</b><br>
-  Evaluating the Potential of Machine Learning for Salmon Forecasting</p>
+  <p><b>Emmett Saulnier</b><br>
+  Direct and downstream health effects of pesticides: Evidence from the U.S. rollout of genetically modified crops and glyphosate
+  <p><b>Nicholas Potter</b><br>
+  Estimating snow drought effects on water supply for irrigation
+  <p><b>Sandy Sum</b><br>
+  The disproportionate effects of drought on drinking water quality: Evidence from California
+  <p><b>Apoorva Lal</b><br>
+  Tobler meets Robinson: Semiparametric methods for Covariate Adjustment using Spatial Data
+  <p><b>Deyu Rao</b><br>
+  The role of environmental amenities in the urban economy: Evidence from a spatial general equilibrium approach
+  <p><b>Luke Sherman</b><br>
+  Increasing the spatial resolution of the Human Development Index using satellite imagery
+  <p><b>Patrese Anderson</b><br>
+  Using earth observation products to improve maize price predictions in sub-Saharan Africa
 
   <h5 style="color:black">Other questions?</h5>
   <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
-image   : images/about/wind2.jpg
+

@@ -6,6 +6,7 @@ I currently create the website using R's `blogdown` package and host the website
 
 To serve the site locally:
 ```{r}
+blogdown::build_site()
 blogdown::serve_site()
 ```
 

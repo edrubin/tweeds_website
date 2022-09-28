@@ -2,9 +2,9 @@ enable  : true
 title   : Program
 description: >
   <!-- <p>We will meet in <b>Portland, Oregon</b> on <b>27–28 March 2020</b>.<br>UO's White Stag Block (the location) is located at <a href="https://goo.gl/maps/ZEtLpVVjjfE2" target="_blank">70 NW Couch Street</a>.</p> -->
-  <p>We will meet remotely on <b>29–30 October 2020</b>.
+  <!-- <p>We will meet remotely on <b>29–30 October 2020</b>. -->
 
-  <p><font color="#02bdd5"><h3>Last year's program</h3></font></p>
+  <!-- <p><font color="#02bdd5"><h3>Program from 2019</h3></font></p> -->
 
   <p><h4>Friday, 29 March 2019</h4></p>
 
@@ -141,7 +141,7 @@ description: >
     </tr>
     <tr>
       <td>04:15pm</td>
-      <td> <a href="../lightning1/"><b>Lightning round #1</b></a> </td>
+      <td> <a href="../lightning12019/"><b>Lightning round #1</b></a> </td>
     </tr>
     <tr>
       <td>05:15pm</td>
@@ -196,7 +196,7 @@ description: >
     </tr>
     <tr>
       <td>10:45am</td>
-      <td> <a href="../lightning2/"><b>Lightning round #2</b></a> </td>
+      <td> <a href="../lightning22019/"><b>Lightning round #2</b></a> </td>
     </tr>
     <tr>
       <td>12:00pm</td>
