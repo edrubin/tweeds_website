@@ -1,0 +1,39 @@
+enable  : true
+title   : Eugene
+description: >
+  <p>A few of our favorite spots in Eugene...</p>
+  
+  <p>
+    <h4>Food</h4>
+         • <a href="https://goo.gl/maps/hnfrE3NPnfpgMFZX8" target="_blank">Akira</a>
+    <br> • <a href="https://g.page/farmersunioncoffeeroasters?share" target="_blank">Farmers Union Coffee Roasters</a>
+    <br> • <a href="https://goo.gl/maps/DbuPvpeuXj8qQ9Vw8" target="_blank">Krob Krua</a>
+    <br> • <a href="https://g.page/lionandowl?share" target="_blank">Lion & Owl</a>
+    <br> • <a href="https://goo.gl/maps/xHnSETWwRnkMEafe8" target="_blank">Izakaya Meiji Co.</a>
+    <br> • <a href="https://goo.gl/maps/4VngFBkbyVW9jZmg9" target="_blank">Salt & Straw</a>
+    <br> • <a href="https://goo.gl/maps/cNERSKhqtqNmCvZw7" target="_blank">Stretched Noodles</a>
+    <br> • <a href="https://goo.gl/maps/Bdq3stHEEGHijm928" target="_blank">Wheat Bay</a>
+    <br> • <a href="https://goo.gl/maps/6LHYRnxJwgdWyKTHA" target="_blank">The Wheel Apizza Pub</a>
+    <br><br><i>Note:</i> <a href="https://goo.gl/maps/67FPDwf3tq95EC1P9" target="_blank">Noisette</a>, <a href="https://goo.gl/maps/CM8jwiSfYWST1oYn9" target="_blank">Tailored Coffee</a>, <a href="https://goo.gl/maps/kz9Z3MiHVFaSbWHq7" target="_blank">Cafe Soriah</a>, and <a href="https://goo.gl/maps/tziJaoQj6zmLS7pw5" target="_blank">Tacovore</a> are catering. 
+  </p>
+
+  <p>
+    <h4>Beer and Wine</h4>
+         • <a href="https://goo.gl/maps/CvfyvqWnc2hHF6dJ9" target="_blank">Alesong Brewing & Blending</a> (or <a href="https://goo.gl/maps/zNZfkT9PewWvok9H9">here</a> if you want a really nice view)
+    <br> • <a href="https://g.page/civicwinery?share" target="_blank">Civic Winery & Wines</a>
+    <br> • <a href="https://goo.gl/maps/FHJZQrCyM7iZVL579" target="_blank">ColdFire Brewing Company</a>
+    <br> • <a href="https://goo.gl/maps/AgzjU3iQz59oeVSq5" target="_blank">16 Tons Beer & Wine</a>
+  </p>
+
+  <p>
+    <h4>Hikes and Bikes</h4>
+         • <a href="https://goo.gl/maps/jGerPsirDAMHHh118" target="_blank">Carpenter Bypass Trail System</a> (MTB)
+        <br> • <a href="https://goo.gl/maps/6w11oXxdNDjmzg9G7">MRT</a> (Hiking and MTB)
+    <br> • <a href="https://goo.gl/maps/zgHKSvCd2LZ3XFKN9">Pre's Trail</a> (Running)
+    <br> • <a href="https://goo.gl/maps/VWfaXgWJvrdnCaJr8">Salt Creek Falls</a> (Hiking)
+    <br> • <a href="https://goo.gl/maps/4Ziw5c2onwDaaeDB6">Sweet Creek Falls</a> (Hiking)
+    <br> • <a href="https://goo.gl/maps/xq23nRPLgMXyB3kVA">Thurston Hills</a> (MTB)
+  </p>
+
+
+image   : images/about/bridge.jpg

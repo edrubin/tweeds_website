@@ -26,6 +26,10 @@ weight = 4
 name = "Program"
 url = "/program"
 weight = 5
+[[menu.nav]]
+name = "Eugene"
+url = "/eugene"
+weight = 6
 # [[menu.nav]]
 # name = "Contact"
 # url = "/contact"
