@@ -27,13 +27,14 @@ description: >
 
   <p>
     <h4>Hikes and Bikes</h4>
-         • <a href="https://goo.gl/maps/jGerPsirDAMHHh118" target="_blank">Carpenter Bypass Trail System</a> (MTB)
-        <br> • <a href="https://goo.gl/maps/6w11oXxdNDjmzg9G7">MRT</a> (Hiking and MTB)
-    <br> • <a href="https://goo.gl/maps/zgHKSvCd2LZ3XFKN9">Pre's Trail</a> (Running)
-    <br> • <a href="https://goo.gl/maps/VWfaXgWJvrdnCaJr8">Salt Creek Falls</a> (Hiking)
-    <br> • <a href="https://goo.gl/maps/4Ziw5c2onwDaaeDB6">Sweet Creek Falls</a> (Hiking)
-    <br> • <a href="https://goo.gl/maps/xq23nRPLgMXyB3kVA">Thurston Hills</a> (MTB)
+         • <a href="https://goo.gl/maps/GN4V41zi19ckVxg49" target="_blank">Alton Baker Park</a> (Running, Walking, Biking)
+    <br> • <a href="https://goo.gl/maps/jGerPsirDAMHHh118" target="_blank">Carpenter Bypass Trail System</a> (MTB)
+    <br> • <a href="https://goo.gl/maps/6w11oXxdNDjmzg9G7" target="_blank">McKenzie River Trail</a> (Hiking and MTB)
+    <br> • <a href="https://goo.gl/maps/zgHKSvCd2LZ3XFKN9" target="_blank">Pre's Trail</a> (Running)
+    <br> • <a href="https://goo.gl/maps/VWfaXgWJvrdnCaJr8" target="_blank">Salt Creek Falls</a> (Hiking)
+    <br> • <a href="https://goo.gl/maps/4Ziw5c2onwDaaeDB6" target="_blank">Sweet Creek Falls</a> (Hiking)
+    <br> • <a href="https://goo.gl/maps/xq23nRPLgMXyB3kVA" target="_blank">Thurston Hills</a> (MTB)
   </p>
 
 
-image   : images/about/bridge.jpg
+image   : "https://github.com/edrubin/tweeds_website/blob/master/public/images/about/bridge.jpg?raw=true"
