@@ -1,180 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://tweeds.io/portfolio/oliva/</loc>
+    <loc>https://tweeds.io/portfolio/christensen/</loc>
     <lastmod>2019-01-01T01:01:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/portfolio/</loc>
     <lastmod>2019-01-01T01:01:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/</loc>
     <lastmod>2019-01-01T01:01:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/about/</loc>
     <lastmod>2018-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/blog/</loc>
     <lastmod>2018-07-15T12:32:37+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/blog/a-new-year-a-new-posibility/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/inspiration/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/motivation/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/</loc>
     <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/blog/building-an-online-audience/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/internet/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/tech/</loc>
     <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/business/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/people/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/blog/space-shouldnt-be-the-final-frontier/</loc>
     <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/service/</loc>
     <lastmod>2018-07-14T12:58:14+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/categories/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/blog/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/eugene/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/faq/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/hh/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/info/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning12019/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning12020/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning22019/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning22020/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning1/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning2/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/lightning3/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/logistics/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/program/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/program2019/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://tweeds.io/program2020/</loc>
   </url>
-  
 </urlset>

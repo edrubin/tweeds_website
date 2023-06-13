@@ -5,10 +5,6 @@
     <link>https://tweeds.io/info/</link>
     <description>Recent content in Info on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://tweeds.io/info/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://tweeds.io/info/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

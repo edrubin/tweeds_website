@@ -27,9 +27,9 @@ name = "Program"
 url = "/program"
 weight = 5
 [[menu.nav]]
-name = "Eugene"
-url = "/eugene"
-weight = 6
+# name = "Eugene"
+# url = "/eugene"
+# weight = 6
 # [[menu.nav]]
 # name = "Contact"
 # url = "/contact"
@@ -53,11 +53,11 @@ enable = true
 bgImage = "images/slider.jpg"
 heading = "The workshop in environmental <br> economics and data science"
 # description = "Join us in Portland, Oregon on March 27 and 28 (2020) for the second iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
-description = "Join us in Eugene, Oregon on October 7 and 8 (2022) for the third iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
-btn = false
-# btn = true
+description = "Join us in Portland, Oregon on September 15 and 16 (2023) for the fourth iteration of TWEEDS—an intimate workshop/conferencee focused on the methodological frontiers of environmental economics and data science."
+# btn = false
+btn = true
 btnText = "Apply to present or attend!"
-btnURL = "https://edrubin.typeform.com/to/sK19fAwV"
+btnURL = "https://edrubin.typeform.com/tweeds-2023"
 # btnText = "Mailing list"
 # btnURL = "https://edrubin.typeform.com/to/GXk3q2"
 [[params.banner.flipText]]
@@ -83,18 +83,18 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "7–8 October 2022 <br> <br> The University of Oregon <br> Eugene, Oregon <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $150 for everyone else <br> <br> Applications were due 30 June 2022. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+content = "15–16 September 2023 <br> <br> Portland, Oregon <br> <br> Registration costs (upon acceptance)<br>  $25 for students<br>  $150 for everyone else <br> <br> <a href=\"https://edrubin.typeform.com/tweeds-2023\" target=\"_blank\">Applications</a> are due by 14 July 2023. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 # content = "29–30 October 2020 (rescheduled) <br> Remote due to COVID-19 <br> Registration costs waved this year <br> <br> Applications were <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 image = "https://github.com/edrubin/tweeds_website/blob/master/public/images/eugene/mug.png?raw=true"
 
 # Call to Action
 [params.cta]
-enable = false
+enable = true
 title = "Interested?"
-content = "Submit your application!<br>Applications are due June 30th."
+content = "Submit your application!<br>Applications are due July 14th."
 btn = true
 btnText = "Apply"
-btnURL = "https://edrubin.typeform.com/to/sK19fAwV"
+btnURL = "https://edrubin.typeform.com/tweeds-2023"
 
 # Portfolio Section On Homepage
 [params.portfolio]

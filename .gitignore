@@ -1,6 +1,8 @@
 # Files to ignore
 *DS_Store
 
-
 # Local Netlify folder
 .netlify
+
+# Ignore R history
+*Rhistory

@@ -5,10 +5,6 @@
     <link>https://tweeds.io/lightning3/</link>
     <description>Recent content in Lightning talks, vol. 3 on TWEEDS | The workshop in environmental economics and data science</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://tweeds.io/lightning3/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://tweeds.io/lightning3/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
