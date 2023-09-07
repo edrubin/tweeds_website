@@ -83,9 +83,15 @@
   </url><url>
     <loc>https://tweeds.io/lightning12020/</loc>
   </url><url>
+    <loc>https://tweeds.io/lightning2022a/</loc>
+  </url><url>
     <loc>https://tweeds.io/lightning22019/</loc>
   </url><url>
     <loc>https://tweeds.io/lightning22020/</loc>
+  </url><url>
+    <loc>https://tweeds.io/lightning2022b/</loc>
+  </url><url>
+    <loc>https://tweeds.io/lightning2022c/</loc>
   </url><url>
     <loc>https://tweeds.io/lightning1/</loc>
   </url><url>
@@ -100,5 +106,7 @@
     <loc>https://tweeds.io/program2019/</loc>
   </url><url>
     <loc>https://tweeds.io/program2020/</loc>
+  </url><url>
+    <loc>https://tweeds.io/program2022/</loc>
   </url>
 </urlset>

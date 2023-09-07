@@ -1,0 +1,25 @@
+enable  : true
+image   : images/about/benches.jpg
+title   : Lightning talks, vol. 2
+description: >
+
+  <p>
+    <b>Please note:</b> Each talk lasts five minutes.
+  </p>
+
+  <p><b>Nicholas Potter</b><br>
+  Estimating snow drought effects on water supply for irrigation
+  <p><b>Sandy Sum</b><br>
+  The disproportionate effects of drought on drinking water quality: Evidence from California
+  <p><b>Apoorva Lal</b><br>
+  Tobler meets Robinson: Semiparametric methods for Covariate Adjustment using Spatial Data
+  <p><b>Deyu Rao</b><br>
+  The role of environmental amenities in the urban economy: Evidence from a spatial general equilibrium approach
+  <p><b>Luke Sherman</b><br>
+  Increasing the spatial resolution of the Human Development Index using satellite imagery
+  <p><b>Patrese Anderson</b><br>
+  Using earth observation products to improve maize price predictions in sub-Saharan Africa
+
+  <h5 style="color:black">Other questions?</h5>
+  <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
+

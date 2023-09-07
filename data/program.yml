@@ -1,17 +1,17 @@
 enable  : true
 title   : Program
 description: >
-  <p>Below is an example of the schedule from <b><font color="#53BAD2">last year's TWEEDS</font></b>.</p>
+  <!-- <p>Below is an example of the schedule from <b><font color="#53BAD2">last year's TWEEDS</font></b>.</p> -->
 
-  <!-- <p>We can't wait to host TWEEDS in Eugene, Oregon this year!</p> -->
+  <p>We're stoked to see you in Portland, Oregon for TWEEDS this year! <br> Below you will find our planned schedule.</p>
   
-  <!-- <p>All talks will be in <a href="https://map.uoregon.edu/64f8c1d61" target="_blank">Room 282 of the Lillis Business Complex</a>.</p> -->
+  <p><b><u>Location:</b></u> All talks will be in the Billy Frank Jr. Room of the <a href="https://goo.gl/maps/8LYEL3MqeRdcvEuk6" target="_blank">Ecotrust Events Building at 721 NW 9th Avenue in Portland</a>.</p>
 
-  <!-- <p>We will serve breakfast and lunch both days in the <a href="https://map.uoregon.edu/c113b153d" target="_blank">first-floor atrium</a> of the <a href="https://business.uoregon.edu/lillis-complex" target="_blank">Lillis Business Complex</a>.</p> -->
+  <p>We will serve breakfast and lunch both days immediately outside the Billy Frank Jr. Room. There will also be a reception on Friday evening on the rooftop of the Ecotrust building.</p>
 
-  <!-- <p><b>Final schedule.</b> All times are Pacific.</p> -->
+  <p><i>All times are Pacific.</i></p>
 
-  <p><h4>Friday, 07 October 2022</h4></p>
+  <p><h4>Friday, 15 September 2023</h4></p>
 
   <p>
   <table style="width:100%">
@@ -21,15 +21,15 @@ description: >
     </tr>
     <tr>
       <td>08:30am</td>
-      <td><font color="#53BAD2">Welcome, coffee, and social (<a href="https://map.uoregon.edu/c113b153d" target="_blank">Lillis atrium</a>)</font></td>
+      <td><font color="#53BAD2">Welcome, coffee, and social</font></td>
     </tr>
     <tr>
       <td>09:00am</td>
-      <td><a target="_blank" href="https://www.bu.edu/earth/profiles/christoph-nolte/"><b>Christoph Nolte</b></a></td>
+      <td><a target="_blank" href="https://statistics.yale.edu/people/megan-ayers"><b>Megan Ayers</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Characterizing and calibrating uncertainties in the estimation of parcel-level land values and conservation cost</i></td>
+      <td><i>Remote control: Debiasing remote sensing predictions for causal inference</i></td>
     </tr>
     <tr>
       <td>09:20am</td>
@@ -37,15 +37,15 @@ description: >
     </tr>
     <tr>
       <td> </td>
-      <td><i>Parameter recovery using remotely sensed variables:<br>Problems and solutions</i></td>
+      <td><i>Global high-resolution estimates of the United Nations Human Development Index using satellite imagery and machine learning</i></td>
     </tr>
     <tr>
       <td>09:40am</td>
-      <td><a target="_blank" href="https://erg.berkeley.edu/people/murayama-hikari/"><b>Hikari Murayama</b></a></td>
+      <td><a target="_blank" href="https://www.andrewhultgren.com/"><b>Andy Hultgren</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Mass production of global-scale maps using satellite imagery and machine learning</i></td>
+      <td><i>The global inequality implications of climate change: Evidence from high resolution impacts estimates</i></td>
     </tr>
     <tr>
       <td>10:00am</td>
@@ -53,83 +53,96 @@ description: >
     </tr>
     <tr>
       <td>10:30am</td>
-      <td><a target="_blank" href="https://www.gemmadipoppa.com/"><b>Gemma Dipoppa</b></a></td>
+      <td><a target="_blank" href="https://www.irenejacqz.com/"><b>Irene Jacqz</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Fires: Political economy and health impacts of<br>crop stubble burning in South Asia</i></td>
+      <td><i>The persistent effects of a novel toxic pollutant</i></td>
     </tr>
     <tr>
       <td>10:50am</td>
-      <td><a target="_blank" href="https://sites.google.com/view/santiago-saavedra"><b>Santiago Saavedra</b></a></td>
+      <td><a target="_blank" href="https://www.ajsw.info/"><b>Andrew Wilson</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>The response of illegal mining to revealing its existence</i></td>
+      <td><i>Simultaneous measurement of health damage from transboundary and domestic air pollution in mixture</i></td>
     </tr>
     <tr>
       <td>11:10am</td>
-      <td><a target="_blank" href="https://hannahdruckenmiller.com/"><b>Hannah Druckenmiller</b></a></td>
+      <td><a target="_blank" href="https://www.cmc.edu/academic/faculty/profile/laura-grant"><b>Laura Grant</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Can removing development subsidies promote adaptation?<br>The Coastal Barrier Resources Act as a natural experiment</i></td>
+      <td><i>Do water groups mitigate free-riding in transboundary pollution?</i></td>
     </tr>
     <tr>
       <td>11:30am</td>
-      <td><font color="#53BAD2">Lunch (<a href="https://map.uoregon.edu/c113b153d" target="_blank">Lillis atrium</a>)</font></td>
+      <td><font color="#53BAD2">Lunch</font></td>
     </tr>
     <tr>
       <td>01:00pm</td>
-      <td><font color="#537bd2"><b>Keynote: <a target="_blank" href="https://dornsife.usc.edu/paulina-oliva/?mc_cid=87c3dfc137">Paulina Oliva</a></b></font></td>
+      <td><font color="#537bd2"><b>Keynote: <a target="_blank" href="https://www.uiuc-bdeep.org/christensen">Peter Christensen</a></b></font></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Environmental exposure and human behavior</i></td>
+      <td><i>Soon...</i></td>
     </tr>
     <tr>
       <td>02:00pm</td>
+      <td><font color="#53BAD2">Short coffee/tea break</font></td>
+    </tr>
+    <tr>
+      <td>02:15pm</td>
+      <td><font color="#537bd2"><b><a href="../lightning1">Lightning talks, vol. 1</a></b></font> (9 x 5 min)</td>
+      <!-- <td><font color="#537bd2"><b>Lightning talks, vol. 1</b></font> (9 x 5 min)</td> -->
+    </tr>
+    <tr>
+      <td>03:00pm</td>
       <td><font color="#53BAD2">Coffee/tea break</font></td>
-    </tr>
-    <tr>
-      <td>02:30pm</td>
-      <td><a target="_blank" href="https://github.com/JeongKyung"><b>Jeongkyung Won</b></a></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><i>Disaster damage assessment via machine learning</i></td>
-    </tr>
-    <tr>
-      <td>02:50pm</td>
-      <td><a target="_blank" href="https://pappanna.github.io/"><b>Anna Papp</b></a></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><i>Pollution, plastics, and the global trade in garbage</i></td>
-    </tr>
-    <tr>
-      <td>03:10pm</td>
-      <td><a target="_blank" href="https://www.eartheconomics.org/angelafletcher"><b>Angela Fletcher</b></a> and <a target="_blank" href="https://www.eartheconomics.org/laura-villegas-ortiz"><b>Laura Villegas Ortiz</b></a></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><i>Mapping urban heat mitigation effects<br>on human health due to tree canopy cover</i></td>
     </tr>
     <tr>
       <td>03:30pm</td>
-      <td><font color="#53BAD2">Coffee/tea break</font></td>
+      <td><a target="_blank" href="https://wildconsecon.landfood.ubc.ca/about/dennis-engist/"><b>Dennis	Engist</b></a></td>
     </tr>
     <tr>
-      <td>04:00pm</td>
-      <td><font color="#537bd2"><b><a href="../lightning1">Lightning talks, vol. 1</a></b></font> (8 x 5 min)</td>
+      <td> </td>
+      <td><i>The impact of genetically modified crops on bird diversity</i></td>
     </tr>
     <tr>
-      <td>04:45pm</td>
-      <td><font color="#53BAD2">Break and transit</font></td>
+      <td>03:50pm</td>
+      <td><a target="_blank" href="https://www.boisestate.edu/hes/people/kelsey-johnson/"><b>Kelsey Johnson</b></a></td>
     </tr>
     <tr>
-      <td>06:00pm</td>
-      <td><font color="#53BAD2">Dinner, drinks, party at <a target="_blank" href="https://g.page/ninkasibrewing?share">Ninkasi Brewing's Better Living Room</a></font></td>
+      <td> </td>
+      <td><i>Estimating the economic benefits of conservation policies for threatened species: A case study of riparian buffer rules and salmon</i></td>
+    </tr>
+    <tr>
+      <td>04:15pm</td>
+      <td><font color="#53BAD2">Short break</font></td>
+    </tr>
+    <tr>
+      <td>04:30pm</td>
+      <td><a target="_blank" href="https://www.emmettsaulnier.com/"><b>Emmett Saulnier</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Optimal subsidies for residential solar</i></td>
+    </tr>
+    <tr>
+      <td>04:50pm</td>
+      <td><a target="_blank" href="https://sites.google.com/view/danielbigelow/home"><b>Daniel Bigelow</b></a></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>The impact of urban growth boundaries on development density and housing prices</i></td>
+    </tr>
+    <tr>
+      <td>05:00pm</td>
+      <td><font color="#53BAD2">Food, drinks, party</font></td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>On the roof of the Ecotrust building</i></td>
     </tr>
     <tr>
       <td>10:00pm</td>
@@ -138,7 +151,7 @@ description: >
   </table>
   </p>
 
-  <p><h4>Saturday, 08 October 2022</h4></p>
+  <p><h4>Saturday, 16 September 2023</h4></p>
 
   <p>
   <table style="width:100%">
@@ -148,67 +161,60 @@ description: >
     </tr>
     <tr>
       <td>08:30am</td>
-      <td><font color="#53BAD2">Welcome back, coffee, and social (<a href="https://map.uoregon.edu/c113b153d" target="_blank">Lillis atrium</a>)</font></td>
+      <td><font color="#53BAD2">Welcome back, coffee, and social</font></td>
     </tr>
     <tr>
       <td>09:30am</td>
-      <td><a target="_blank" href="https://mclevy.scrippsprofiles.ucsd.edu/"><b>Morgan Levy</b></a></td>
+      <td><a target="_blank" href="https://amanda-ang.net/"><b>Amanda Ang</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Mapping groundwater level change using surface displacement and machine learning in California's Central Valley</i></td>
+      <td><i>Climate change, population density and the incidence of US wildfires</i></td>
     </tr>
     <tr>
       <td>09:50am</td>
-      <td><a target="_blank" href="https://anna-boser.github.io/"><b>Anna Boser</b></a></td>
+      <td><a target="_blank" href="https://chrismalloyecon.com/"><b>Chris Malloy</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Machine learning and remote sensing elucidate an 80% water savings potential in California agriculture</i></td>
+      <td><i>The consequences of wildfire liability for firm precaution: Evidence from power shutoffs in California</i></td>
     </tr>
     <tr>
       <td>10:10am</td>
-      <td><a target="_blank" href="http://www.globalpolicy.science/simon-greenhill"><b>Simon Greenhill</b></a></td>
+      <td><a target="_blank" href="https://ivanhigueram.com/"><b>Iván Higuera-Mendieta</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>What does the Clean Water Act regulate?</i></td>
+      <td><i>A table is worth a thousand pictures: Multi-modal contrastive learning in house burning classification in wildfire events</i></td>
     </tr>
     <tr>
       <td>10:30am</td>
-      <td><font color="#53BAD2">Short coffee/tea break</font></td>
+      <td><font color="#53BAD2">Coffee/tea break</font></td>
     </tr>
       <tr>
-      <td>10:45am</td>
-      <td><font color="#537bd2"><b><a href="../lightning2">Lightning talks, vol. 2</a></b></font> (6 x 5 min)</td>
+      <td>11:00am</td>
+      <td><font color="#537bd2"><b><a href="../lightning2">Lightning talks, vol. 2</a></b></font> (9 x 5 min)</td>
+      <!-- <td><font color="#537bd2"><b>Lightning talks, vol. 2</b></font> (9 x 5 min)</td> -->
     </tr>
     <tr>
-      <td>11:30am</td>
-      <td><font color="#53BAD2">Lunch (<a href="https://map.uoregon.edu/c113b153d" target="_blank">Lillis atrium</a>)</font></td>
+      <td>11:45am</td>
+      <td><font color="#53BAD2">Lunch</font></td>
     </tr>
     <tr>
-      <td>01:00pm</td>
-      <td><a target="_blank" href="https://joshuafan.github.io/"><b>Joshua Fan</b></a></td>
-    </tr>
-    <tr>
-      <td> </td>
-      <td><i>Real-time crop yield forecasting with spatio-temporal deep learning</i></td>
-    </tr>
-    <tr>
-      <td>01:20pm</td>
-      <td><a target="_blank" href="https://www.geog.ucsb.edu/people/faculty/kathy-baylis"><b>Kathy Baylis</b></a></td>
+      <td>01:15pm</td>
+      <td><a target="_blank" href="https://josephine.gantois.lecuyer.me/"><b>Joséphine Gantois</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>The effect of food price volatility on child stunting in Sub-Saharan Africa</i></td>
+      <td><i>The value of disaster prevention: The desert locust</i></td>
     </tr>
     <tr>
-      <td>01:40pm</td>
-      <td><a target="_blank" href="https://ke.linkedin.com/in/victoria-sogomo-151768134"><b>Victoria Sogomo</b></a></td>
+      <td>01:35pm</td>
+      <td><a target="_blank" href="https://hannahdruckenmiller.com/"><b>Hannah	Druckenmiller</b></a></td>
     </tr>
     <tr>
       <td> </td>
-      <td><i>Predicting maize yields at large scale using remote sensing</i></td>
+      <td><i>Willingness to pay for flood-resistant homes</i></td>
     </tr>
     <tr>
       <td>02:00pm</td>
@@ -217,18 +223,26 @@ description: >
     </tr>
       <tr>
       <td>02:30pm</td>
-      <td><font color="#537bd2"><b><a href="../lightning3">Lightning talks, vol. 3</a></b></font> (6 x 5 min)</td>
+      <td><b><font color="#537bd2">Panel:</font></b> <b><a target="_blank" href="https://www.tammacarleton.com/">Tamma Carleton</a>, <a target="_blank" href="https://www.uiuc-bdeep.org/christensen">Peter Christensen</a>, <a target="_blank" href="https://grantmcdermott.com/">Grant McDermott</a></b></td>
     </tr>
     <tr>
-      <td>03:15pm</td>
+      <td> </td>
+      <td><i>TWEEDS in practice: A roundtable on data and lab Management</i></td>
+    </tr>
+    <tr>
+      <td>03:30pm</td>
       <td>The end. ❤️</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td><i>Get in touch if you're interested in grabbing drinks or a hike.</i></td>
     </tr>
   </table>
   </p>
 
   <hr>
 
-  <p>Programs from previous iterations: <a href="../program2019"><b><tt>2019</tt></b></a> | <a href="../program2020"><b><tt>2020</tt></b></a></p>
+  <p>Programs from previous iterations: <a href="../program2019"><b><tt>2019</tt></b></a> | <a href="../program2020"><b><tt>2020</tt></b></a> | <a href="../program2022"><b><tt>2022</tt></b></a></p>
 
   <p>Please contact <a href="mailto:edwardr@uoregon.edu?Subject=TWEEDS" class="email" target="_blank">Ed Rubin</a> with any additional questions.</p>
 
