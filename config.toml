@@ -52,8 +52,7 @@ logo_alt = "TWEEDS"
 enable = true
 bgImage = "images/slider.jpg"
 heading = "The workshop in environmental <br> economics and data science"
-# description = "Join us in Portland, Oregon on March 27 and 28 (2020) for the second iteration of TWEEDS—an intimate workshop focused on the methodological frontiers of environmental economics and data science."
-description = "Join us in Portland, Oregon on September 15 and 16 (2023) for the fourth iteration of TWEEDS—an intimate workshop/conferencee focused on the methodological frontiers of environmental economics and data science."
+description = "Join us in Portland, Oregon on April 25 and 26 (2025) for the fifth iteration of TWEEDS—an intimate workshop/conference focused on the methodological frontiers of environmental economics and data science."
 btn = false
 # btn = true
 # btnText = "Apply to present or attend!"
@@ -81,8 +80,7 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "15–16 September 2023 <br> <br> Portland, Oregon <br> <br> Registration costs (upon acceptance)<br>  $25 for students<br>  $150 for everyone else <br> <br> <a href=\"https://edrubin.typeform.com/tweeds-2023\" target=\"_blank\">Applications</a> were due by 15 July 2023. <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
-# content = "29–30 October 2020 (rescheduled) <br> Remote due to COVID-19 <br> Registration costs waved this year <br> <br> Applications were <b>due 05 January 2020</b>. <br> <br> Please contact <a href=\"mailto:ed@tweeds.io?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+content = "25–26 April 2025 <br> <br> Portland, Oregon <br> <br> Applications open soon. <br> <a href=\"https://edrubin.typeform.com/tweeds-mail\" target=\"_blank\"> Join our mailing list. </a> <br> <br> Registration costs (upon acceptance)<br>  $75 for students<br>  $250 for everyone else  <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 image = "https://github.com/edrubin/tweeds_website/blob/master/public/images/eugene/mug.png?raw=true"
 
 # Call to Action
@@ -116,8 +114,8 @@ copyright_since = "2018"
 # icon = "ion-social-facebook"
 # link = "https://facebook.com"
 [[params.footer.social]]
-icon = "ion-social-twitter"
-link = "https://twitter.com/tweedsio"
+# icon = "ion-social-twitter"
+# link = "https://twitter.com/tweedsio"
 # [[params.footer.social]]
 # icon = "ion-social-instagram"
 # link = "https://instagram.com"

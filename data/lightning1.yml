@@ -11,7 +11,7 @@ description: >
   A big releaf: Large-scale forest restoration in Brazil
   <p><b>Anna Boser</b><br>
   Downscaling remote sensing data using deep learning
-  <p><b>Andrew Dickinson</b><br>
+  <p><b>Andrew Dickinson</b> <i>(canceled)</i><br>
   PM 2.5 prediction
   <p><b>Joel Ferguson</b><br>
   A new approach to measuring the wealth of nations: understanding long-run economic growth using historical aerial photographs
@@ -21,6 +21,8 @@ description: >
   The global water resource costs of agricultural adaptation to climate change
   <p><b>Suhyun Jung</b><br>
   The value of information from the use of satellite earth observation for mangrove management
+  <p><b>Tracey Mangin</b><br>
+    stagg: A data pre-processing R package for climate impacts analysis 
   <p><b>Prakash Mishra</b><br>
   Trade liberalization and resource extraction in the presence of market power
   <p><b>Frederik Noack</b><br>

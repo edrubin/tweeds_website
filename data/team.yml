@@ -2,10 +2,9 @@ enable  : true
 title   : Organizers
 members  :
   - name  : Ed Rubin
-    image : images/team/rubin.jpg
+    image : images/team/rubin.jpeg
     designation : Host + Organizing Committee
     description : Ed is an assistant professor in economics at the University of Oregon. His research intersects tools from data science and causally informed econometrics to examine problems of environmental quality and social inequality.
-    twitter     : https://www.twitter.com/edrubin
     orgSite     : https://edrub.in
     email       : edwardr@uoregon.edu
     instagram   : https://www.instagram.com/edwardarubin
@@ -25,6 +24,12 @@ members  :
     description : Tamma is an environmental and resource economist, leveraging tools from applied microeconomics, remote sensing, and climate science to quantify the interactions between economic development and large-scale environmental change.
     orgSite     : https://www.tammacarleton.com/
 
+  - name  : Hannah Druckenmiller
+    image : images/team/druckenmiller.png
+    designation : Organizing Committee
+    description : Hannah is an assistant professor at Caltech who work provide empirically based estimates for the environmental benefits and economic costs associated with natural resource protection. Hannah's also has a strong interest in developing novel data and methods to enable progress on historically intractable problems in these areas of research.
+    orgSite     : https://hannahdruckenmiller.com/
+
   - name  : Grant McDermott
     image : images/team/mcdermott.png
     designation : Organizing Committee
@@ -36,6 +41,6 @@ members  :
   - name  : Eric Zou
     image : images/team/zou.jpg
     designation : Organizing Committee
-    description : Eric is an assistant professor at the University of Oregon. His research focuses on causally identifying links between environmental quality, health, and regulation.
+    description : Eric is an assistant professor at the Ross School of Business and the University of Michigan. His research focuses on causally identifying links between environmental quality, health, and regulation.
     # twitter     : https://www.twitter.com/eric-zou
     orgSite     : https://eric-zou.com/
