@@ -54,7 +54,6 @@ bgImage = "images/slider.jpg"
 heading = "The workshop in environmental <br> economics and data science"
 description = "Join us in Portland, Oregon on April 25 and 26 (2025) for the fifth iteration of TWEEDS—an intimate workshop/conference focused on the methodological frontiers of environmental economics and data science."
 btn = false
-btn = true
 btnText = "Apply to present or attend!"
 btnURL = "https://edrubin.typeform.com/tweeds-2025"
 [[params.banner.flipText]]
@@ -80,7 +79,7 @@ title = "truth"
 [params.about]
 enable = true
 title = "when + where"
-content = "25–26 April 2025 <br> Portland, Oregon <br> <br><a href=\"https://edrubin.typeform.com/tweeds-2025\" target=\"_blank\"> <b>Apply now!</b> </a> <br>  <b>Applications close 15 January 2025</b>. <br><br> Registration costs (upon acceptance)<br>  $75 for students<br>  $250 for everyone else  <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
+content = "25–26 April 2025 <br> Portland, Oregon <br> <br> <b>Applications closed 15 January 2025</b>. <br><br> Registration costs (upon acceptance)<br>  $75 for students<br>  $250 for everyone else  <br> <br> Please contact <a href=\"mailto:edwardr@uoregon.edu?Subject=TWEEDS\" class=\"email\" target=\"_blank\">Ed Rubin</a> with any additional questions."
 image = "https://github.com/edrubin/tweeds_website/blob/master/public/images/eugene/mug.png?raw=true"
 
 # Call to Action
